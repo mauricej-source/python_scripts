@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terraform Analysis Report</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 20px; 
+            background-color: #f4f4f9; 
+            color: #333; 
+            font-size: 14px;
+        }
+        .container { 
+            max-width: 900px; 
+            margin: auto; 
+            background: #fff; 
+            padding: 20px; 
+            border-radius: 8px; 
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+        }
+        h1, h2 { 
+            color: #0056b3; 
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin-top: 20px; 
+        }
+        th, td { 
+            text-align: left; 
+            padding: 12px; 
+            border-bottom: 1px solid #ddd;
+            font-size: 12px;
+        }
+        th { 
+            background-color: #e2eafc; 
+        }
+        tr:hover { 
+            background-color: #f1f1f1; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terraform Analysis Report</h1>
+        <p>This report lists all unique AWS resources and roles found in your Terraform files.</p>
+
+        <h2>Modules Used</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Name</th>
+                    <th>Module Source</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td><code>Career-Advising</code></td>
+                    <td><code>modules/ecs-codedeploy-split-pipeline</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Career-Job-Explorer</code></td>
+                    <td><code>modules/ecs-codedeploy-split-pipeline</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Career-Navigator</code></td>
+                    <td><code>modules/ecs-codedeploy-pipeline</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Career-Plan</code></td>
+                    <td><code>modules/ecs-codedeploy-pipeline</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Career-Profile</code></td>
+                    <td><code>modules/ecs-codedeploy-split-pipeline</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Personalization</code></td>
+                    <td><code>modules/standard-codebuild-pipeline</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Talent-Source</code></td>
+                    <td><code>modules/ecs-codedeploy-pipeline</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Talent-Source-Management</code></td>
+                    <td><code>modules/ecs-codedeploy-pipeline</code></td>
+                </tr>
+
+            </tbody>
+        </table>
+
+        <h2>AWS Resources</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Resource Type</th>
+                    <th>Resource Name</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career-hub-profile-prod-mgmt</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career-hub-job-explorer-nonprod</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>talent-source-app_cognito_prod</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>talent-source-app_cognito_nonprod</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career-hub-advising-prod</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career-hub-job-explorer-prod</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career-hub-advising-nonprod</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career-hub-profile-nonprod-mgmt</code></td>
+                </tr>
+
+            </tbody>
+        </table>
+
+        <h2>Roles</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Source</th>
+                    <th>Role Variable</th>
+                    <th>Role ARN</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td><code>MGMT</code></td>
+                    <td><code>pipeline_mgmt_role_arn</code></td>
+                    <td><code>"arn:aws:iam::050853773894:role/career-personalization-mfe-codepipeline"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>MGMT</code></td>
+                    <td><code>pipeline_mgmt_role_arn</code></td>
+                    <td><code>"arn:aws:iam::050853773894:role/prospect-sa-cdk-codepipeline"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>MGMT</code></td>
+                    <td><code>pipeline_mgmt_role_arn</code></td>
+                    <td><code>"arn:aws:iam::050853773894:role/talent-source-cdk-codepipeline"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>MGMT</code></td>
+                    <td><code>role_arn</code></td>
+                    <td><code>"arn:aws:iam::050853773894:role/prospect-tools-lambdas"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>BUILD_ASSUME_ROLE</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/career-tools-talent-source-task-exec"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>BUILD_ASSUME_ROLE</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/cdk-nonprod-prospects"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>pipeline_nonprod_role_arn</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/career-tools-talent-source-task-exec"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>pipeline_nonprod_role_arn</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/cdk-nonprod-prospects"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>pipeline_nonprod_role_arn</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/cdk_nonprod_career_personalization_mfe_pipeline_cross_account"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>PROD</code></td>
+                    <td><code>BUILD_ASSUME_ROLE</code></td>
+                    <td><code>"arn:aws:iam::324765430599:role/career-tools-talent-source-task-exec"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>PROD</code></td>
+                    <td><code>BUILD_ASSUME_ROLE</code></td>
+                    <td><code>"arn:aws:iam::324765430599:role/cdk-prod-prospects"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>PROD</code></td>
+                    <td><code>pipeline_prod_role_arn</code></td>
+                    <td><code>"arn:aws:iam::324765430599:role/career-tools-talent-source-task-exec"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>PROD</code></td>
+                    <td><code>pipeline_prod_role_arn</code></td>
+                    <td><code>"arn:aws:iam::324765430599:role/cdk-prod-prospects"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>PROD</code></td>
+                    <td><code>pipeline_prod_role_arn</code></td>
+                    <td><code>"arn:aws:iam::324765430599:role/cdk_prod_career_personalization_mfe_pipeline_cross_account"</code></td>
+                </tr>
+
+            </tbody>
+        </table>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,184 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Pipeline Validation Report</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 20px; }
+            h1 { color: #333; }
+            .report-section { margin-top: 40px; }
+            .report-container { border: 1px solid #ccc; border-radius: 8px; padding: 20px; margin-top: 20px; }
+            .file-header { display: flex; align-items: center; justify-content: space-between; padding: 10px; font-weight: bold; border-bottom: 1px solid #eee; }
+            .status-pass { color: green; }
+            .status-fail { color: red; }
+            .messages { list-style-type: none; padding: 0; }
+            .messages li { padding: 5px 0; border-bottom: 1px solid #f0f0f0; }
+            table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+            th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+            th { background-color: #f2f2f2; }
+            .error-table-container { margin-top: 20px; }
+            .empty-report { text-align: center; color: #555; }
+        </style>
+    </head>
+    <body>
+        <h1>Pipeline Validation Report</h1>
+        <div class="report-section">
+            <h2>Helm Chart Validation</h2>
+    
+        <div class="report-container">
+            <div class="file-header">
+                <span>Chart: leads-profile-helm</span>
+                <span class="status-fail">❌ FAIL</span>
+            </div>
+            <ul class="messages">
+                <li>❌ Failed to parse manifest C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-configmap.yaml</li><li>❌ Failed to parse manifest C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-deployment.yaml</li><li>❌ Failed to parse manifest C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-istio.yaml</li><li>❌ Failed to parse manifest C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-podscaler.yaml</li><li>❌ Failed to parse manifest C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-service.yaml</li><li>❌ Failed to parse manifest C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-configmap.yaml</li><li>❌ Failed to parse manifest C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-deployment.yaml</li><li>❌ Failed to parse manifest C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-podscaler.yaml</li><li>❌ Failed to parse manifest C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-service.yaml</li>
+            </ul>
+        
+            <div class="error-table-container">
+                <h3>YAML Parsing Errors</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Filename</th>
+                            <th>Error Root Cause</th>
+                            <th>Line</th>
+                            <th>Column</th>
+                            <th>Error</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            
+                        <tr>
+                            <td>api-configmap.yaml</td>
+                            <td>found unhashable key</td>
+                            <td>5</td>
+                            <td>11</td>
+                            <td>while constructing a mapping
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-configmap.yaml", line 6, column 12
+found unhashable key
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-configmap.yaml", line 6, column 13</td>
+                        </tr>
+                
+                        <tr>
+                            <td>api-deployment.yaml</td>
+                            <td>could not find expected ':'</td>
+                            <td>7</td>
+                            <td>0</td>
+                            <td>while scanning a simple key
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-deployment.yaml", line 8, column 1
+could not find expected ':'
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-deployment.yaml", line 9, column 1</td>
+                        </tr>
+                
+                        <tr>
+                            <td>api-istio.yaml</td>
+                            <td>expected <block end>, but found '<scalar>'</td>
+                            <td>5</td>
+                            <td>2</td>
+                            <td>while parsing a block mapping
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-istio.yaml", line 6, column 3
+expected <block end>, but found '<scalar>'
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-istio.yaml", line 6, column 32</td>
+                        </tr>
+                
+                        <tr>
+                            <td>api-podscaler.yaml</td>
+                            <td>expected <block end>, but found '<scalar>'</td>
+                            <td>3</td>
+                            <td>2</td>
+                            <td>while parsing a block mapping
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-podscaler.yaml", line 4, column 3
+expected <block end>, but found '<scalar>'
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-podscaler.yaml", line 4, column 31</td>
+                        </tr>
+                
+                        <tr>
+                            <td>api-service.yaml</td>
+                            <td>expected <block end>, but found '<scalar>'</td>
+                            <td>5</td>
+                            <td>4</td>
+                            <td>while parsing a block mapping
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-service.yaml", line 6, column 5
+expected <block end>, but found '<scalar>'
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\api-service.yaml", line 7, column 36</td>
+                        </tr>
+                
+                        <tr>
+                            <td>subscriber-configmap.yaml</td>
+                            <td>found unhashable key</td>
+                            <td>5</td>
+                            <td>18</td>
+                            <td>while constructing a mapping
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-configmap.yaml", line 6, column 19
+found unhashable key
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-configmap.yaml", line 6, column 20</td>
+                        </tr>
+                
+                        <tr>
+                            <td>subscriber-deployment.yaml</td>
+                            <td>could not find expected ':'</td>
+                            <td>7</td>
+                            <td>0</td>
+                            <td>while scanning a simple key
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-deployment.yaml", line 8, column 1
+could not find expected ':'
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-deployment.yaml", line 9, column 1</td>
+                        </tr>
+                
+                        <tr>
+                            <td>subscriber-podscaler.yaml</td>
+                            <td>expected <block end>, but found '<scalar>'</td>
+                            <td>3</td>
+                            <td>2</td>
+                            <td>while parsing a block mapping
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-podscaler.yaml", line 4, column 3
+expected <block end>, but found '<scalar>'
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-podscaler.yaml", line 4, column 38</td>
+                        </tr>
+                
+                        <tr>
+                            <td>subscriber-service.yaml</td>
+                            <td>expected <block end>, but found '<scalar>'</td>
+                            <td>5</td>
+                            <td>4</td>
+                            <td>while parsing a block mapping
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-service.yaml", line 6, column 5
+expected <block end>, but found '<scalar>'
+  in "C:/w_cs_leads_profile_helm/leads-profile-helm\templates\subscriber-service.yaml", line 7, column 43</td>
+                        </tr>
+                
+                    </tbody>
+                </table>
+            </div>
+            
+        </div>
+        
+        </div>
+        <div class="report-section">
+            <h2>Buildspec Validation</h2>
+    
+        <div class="report-container">
+            <div class="file-header">
+                <span>Buildspec File: helm-deploy-prod.yaml</span>
+                <span class="status-pass">✅ PASS</span>
+            </div>
+            <ul class="messages">
+                <li>✅ All basic checks passed. Buildspec looks good.</li><li>✅ Found 'install' phase. Good practice for dependencies.</li><li>✅ Found 'pre_build' phase. Useful for pre-build checks.</li><li>✅ Found 'post_build' phase. Ideal for testing, tagging, and deployments.</li><li>✅ Found 'variables' section.</li><li>✅ Found 'secrets-manager' section. Great for secure credential management.</li><li>⚠️ WARNING: The ARN for secret 'newrelic_license' does not end in a wildcard or a colon. This may not retrieve the latest version.</li><li>⚠️ WARNING: The ARN for secret 'redis_password' does not end in a wildcard or a colon. This may not retrieve the latest version.</li>
+            </ul>
+        </div>
+        
+        <div class="report-container">
+            <div class="file-header">
+                <span>Buildspec File: helm-deploy-st.yaml</span>
+                <span class="status-pass">✅ PASS</span>
+            </div>
+            <ul class="messages">
+                <li>✅ All basic checks passed. Buildspec looks good.</li><li>✅ Found 'install' phase. Good practice for dependencies.</li><li>✅ Found 'pre_build' phase. Useful for pre-build checks.</li><li>✅ Found 'post_build' phase. Ideal for testing, tagging, and deployments.</li><li>✅ Found 'variables' section.</li><li>✅ Found 'secrets-manager' section. Great for secure credential management.</li><li>⚠️ WARNING: The ARN for secret 'newrelic_license' does not end in a wildcard or a colon. This may not retrieve the latest version.</li><li>⚠️ WARNING: The ARN for secret 'redis_password' does not end in a wildcard or a colon. This may not retrieve the latest version.</li>
+            </ul>
+        </div>
+        
+        </div>
+    </body>
+    </html>
+    

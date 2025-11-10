@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terraform Analysis Report</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 20px; 
+            background-color: #f4f4f9; 
+            color: #333; 
+            font-size: 14px;
+        }
+        .container { 
+            max-width: 900px; 
+            margin: auto; 
+            background: #fff; 
+            padding: 20px; 
+            border-radius: 8px; 
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+        }
+        h1, h2 { 
+            color: #0056b3; 
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin-top: 20px; 
+        }
+        th, td { 
+            text-align: left; 
+            padding: 12px; 
+            border-bottom: 1px solid #ddd;
+            font-size: 12px;
+        }
+        th { 
+            background-color: #e2eafc; 
+        }
+        tr:hover { 
+            background-color: #f1f1f1; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terraform Analysis Report</h1>
+        <p>This report lists all unique AWS resources and roles found in your Terraform files.</p>
+
+        <h2>Modules Used</h2>
+
+        <p>No modules were found in the specified Terraform files.</p>
+
+        <h2>AWS Resources</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Resource Type</th>
+                    <th>Resource Name</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td><code>aws_acm_certificate</code></td>
+                    <td><code>career-tools-acm-certificate</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_bedrockagent_prompt</code></td>
+                    <td><code>careers-resume-generate-work-tasks</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_bedrockagent_prompt</code></td>
+                    <td><code>careers-resume-generate-summary</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_bedrockagent_prompt</code></td>
+                    <td><code>careers-resume-refine-summary</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_bedrockagent_prompt</code></td>
+                    <td><code>careers-resume-refine-work-tasks</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_cloudformation_stack</code></td>
+                    <td><code>${var.app_name}-${var.environment}-slack-bot</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_cloudfront_distribution</code></td>
+                    <td><code>career-tools</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_cloudfront_monitoring_subscription</code></td>
+                    <td><code>career-tools</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_cloudfront_origin_access_identity</code></td>
+                    <td><code>career-tools</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_cloudfront_origin_request_policy</code></td>
+                    <td><code>career-tools-no-cookie</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_cloudwatch_metric_alarm</code></td>
+                    <td><code>career_tools_next_5xx_error_rate_alarm</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_cloudwatch_metric_alarm</code></td>
+                    <td><code>edge_microservice_auth</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_cloudwatch_metric_alarm</code></td>
+                    <td><code>edge_cors_viewer_response</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_kms_key</code></td>
+                    <td><code>elatus_key</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_kms_key_policy</code></td>
+                    <td><code>elatus</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_s3_bucket</code></td>
+                    <td><code>career-tools</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_s3_bucket</code></td>
+                    <td><code>logs</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_s3_bucket_acl</code></td>
+                    <td><code>career-tools</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_s3_bucket_acl</code></td>
+                    <td><code>logs</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_s3_bucket_lifecycle_configuration</code></td>
+                    <td><code>logs</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_s3_bucket_ownership_controls</code></td>
+                    <td><code>career-tools</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_s3_bucket_ownership_controls</code></td>
+                    <td><code>logs</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_s3_bucket_policy</code></td>
+                    <td><code>career-tools</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_s3_bucket_server_side_encryption_configuration</code></td>
+                    <td><code>logs</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>careers_personalization_mfe_elatus_secret_${var.environment}</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career-profile-${var.environment}-temp</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>careers_vendors_secret_${var.environment}</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career-job-explorer-${var.environment}</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>talent-source-app_cognito_${var.environment}</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career_navigator_${var.environment}</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>career-advising-${var.environment}-temp</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret</code></td>
+                    <td><code>simplybook_api_key_secret_${var.environment}</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_secretsmanager_secret_policy</code></td>
+                    <td><code>elatus</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_sns_topic</code></td>
+                    <td><code>${var.app_name}-${var.environment}-slack-bot</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>aws_sns_topic_policy</code></td>
+                    <td><code>slack_bot</code></td>
+                </tr>
+
+            </tbody>
+        </table>
+
+        <h2>Roles</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Source</th>
+                    <th>Role Variable</th>
+                    <th>Role ARN</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td><code>MGMT</code></td>
+                    <td><code>career_navigator_pipeline_role</code></td>
+                    <td><code>"arn:aws:iam::050853773894:role/careers-navigator-cdk-codepipeline"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>career_advising_task_definition_role</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/career-advising-nonprod_ecsTask"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>career_advising_task_execution_role</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/career-advising-nonprod_ecsTaskExecution"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>career_profile_task_definition_role</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/career-profile-nonprod_ecsTask"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>career_profile_task_execution_role</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/career-profile-nonprod_ecsTaskExecution"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>careers_task_execution_role</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/cdk-nonprod-careers"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>elatus_app_role_arn</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/elatus-nonprod-role"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>navigator_task_execution_role</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/cdk-nonprod-careers"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>NONProd</code></td>
+                    <td><code>ts_task_execution_role</code></td>
+                    <td><code>"arn:aws:iam::363145861140:role/career-tools-talent-source-task-exec"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>PROD</code></td>
+                    <td><code>navigator_task_execution_role</code></td>
+                    <td><code>"arn:aws:iam::324765430599:role/cdk_prod_career_navigator_pipeline_cross_account"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>PROD</code></td>
+                    <td><code>ts_task_execution_role</code></td>
+                    <td><code>"arn:aws:iam::324765430599:role/career-tools-talent-source-task-exec"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Unknown</code></td>
+                    <td><code>IamRoleArnParameter</code></td>
+                    <td><code>"arn:aws:iam::${local.aws_account_id}:role/career-tools-slackbot-${var.environment}"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Unknown</code></td>
+                    <td><code>role_arn</code></td>
+                    <td><code>"arn:aws:iam::${local.aws_account_id}:role/career-tools-edge-lambda-${var.environment}"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Unknown</code></td>
+                    <td><code>role_arn</code></td>
+                    <td><code>"arn:aws:iam::${local.aws_account_id}:role/career-tools-nextjs-lambda-${var.environment}"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Unknown</code></td>
+                    <td><code>role_arn</code></td>
+                    <td><code>"arn:aws:iam::${local.aws_account_id}:role/career-tools-pipeline-lambda-${var.environment}"</code></td>
+                </tr>
+
+                <tr>
+                    <td><code>Unknown</code></td>
+                    <td><code>role_arn</code></td>
+                    <td><code>"arn:aws:iam::${local.aws_account_id}:role/careers_vendors_proxy_lambda_${var.environment}"</code></td>
+                </tr>
+
+            </tbody>
+        </table>
+
+    </div>
+</body>
+</html>
