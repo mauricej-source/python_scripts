@@ -1,0 +1,48 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"RDCM","Radcom","Communication Services","Telecom Services","Israel",228.42,25.13,47.60%,0.61%,1.50,11.33%,36.36%,1.00,50.91
+"PAL","Proficient Auto Logistics Inc","Industrials","Integrated Freight & Logistics","USA",205.64,,75.60%,7.96%,8.88,-7.96%,-26.00%,1.75,193.00
+"LWAY","Lifeway Foods, Inc","Consumer Defensive","Packaged Foods","USA",395.95,37.62,26.86%,3.99%,1.67,-13.29%,12.75%,1.00,124.53
+"UPXI","Upexi Inc","Communication Services","Internet Content & Information","USA",207.29,,11.80%,20.76%,1.87,-55.44%,-31.12%,1.00,5819.26
+"RSKD","Riskified Ltd","Technology","Software - Application","Israel",850.06,,27.67%,1.34%,1.87,6.07%,17.83%,2.71,617.97
+"SPRU","Spruce Power Holding Corporation","Technology","Solar","USA",58.67,,14.89%,4.95%,4.52,135.00%,35.39%,,174.33
+"CAAS","China Automotive Systems Inc","Consumer Cyclical","Auto Parts","China",132.74,4.53,4.34%,0.21%,0.47,6.66%,-5.99%,1.00,46.57
+"KPLT","Katapult Holdings Inc","Technology","Software - Infrastructure","USA",31.89,,25.12%,4.22%,1.29,-46.96%,2.49%,3.00,96.92
+"KMDA","Kamada Ltd","Healthcare","Drug Manufacturers - Specialty & Generic","Israel",423.27,20.70,19.65%,0.16%,0.80,0.82%,22.67%,1.00,61.85
+"INBS","Intelligent Bio Solutions Inc","Healthcare","Medical Devices","USA",7.58,,9.30%,9.22%,2.91,-43.52%,-48.72%,1.00,284.41
+"ORLA","Orla Mining Ltd","Basic Materials","Gold","Canada",3535.04,208.25,66.11%,2.12%,2.34,10.04%,129.39%,1.40,2597.86
+"LPTH","Lightpath Technologies, Inc","Technology","Electronic Components","USA",368.08,,31.74%,4.35%,1.02,126.37%,428.21%,1.00,1753.03
+"BWAY","Brainsway Ltd ADR","Healthcare","Medical Devices","Israel",304.16,57.27,17.82%,0.44%,0.97,21.20%,43.19%,1.00,75.35
+"FIVN","Five9 Inc","Technology","Software - Infrastructure","USA",1623.00,58.29,115.53%,9.97%,3.63,-17.46%,-43.64%,1.57,2091.31
+"NKE","Nike, Inc","Consumer Cyclical","Footwear & Accessories","USA",94930.11,32.91,65.92%,3.15%,2.64,-15.93%,-15.37%,2.03,13932.52
+"UMAC","Unusual Machines Inc","Technology","Computer Hardware","USA",407.11,,10.68%,8.47%,0.77,11.97%,249.37%,1.00,3754.44
+"SMCI","Super Micro Computer Inc","Technology","Computer Hardware","USA",23550.81,31.62,53.15%,14.98%,2.66,-13.28%,60.89%,2.45,28913.63
+"HTHT","H World Group Limited ADR","Consumer Cyclical","Lodging","China",14000.38,28.60,47.81%,4.42%,6.67,38.26%,24.14%,1.29,2018.42
+"BROS","Dutch Bros Inc","Consumer Cyclical","Restaurants","USA",9345.77,114.19,83.46%,8.79%,2.72,-10.16%,20.45%,1.30,3985.96
+"INDI","Indie Semiconductor Inc","Technology","Semiconductor Equipment & Materials","USA",925.40,,92.40%,26.50%,11.32,-10.24%,-23.18%,1.29,4526.54
+"URBN","Urban Outfitters, Inc","Consumer Cyclical","Apparel Retail","USA",5576.52,12.17,77.81%,17.41%,5.15,-19.56%,64.82%,2.36,1887.88
+"XTNT","Xtant Medical Holdings Inc","Healthcare","Medical Devices","USA",107.21,75.07,62.92%,0.07%,0.36,17.75%,45.71%,1.00,224.81
+"AEO","American Eagle Outfitters Inc","Consumer Cyclical","Apparel Retail","USA",2993.16,17.02,92.74%,14.79%,2.11,39.84%,-5.63%,3.25,10930.76
+"OWL","Blue Owl Capital Inc","Financial","Asset Management","USA",23753.18,338.44,87.92%,9.33%,5.09,-22.53%,-33.49%,1.47,11153.06
+"HL","Hecla Mining Co","Basic Materials","Other Precious Metals & Mining","USA",9991.17,49.11,67.23%,4.50%,1.17,94.65%,160.21%,2.33,23840.48
+"EVGO","EVgo Inc","Consumer Cyclical","Specialty Retail","USA",1037.90,,66.61%,25.55%,8.08,-10.61%,-39.17%,1.55,4033.06
+"ZWS","Zurn Elkay Water Solutions Corp","Industrials","Pollution & Treatment Controls","USA",8116.51,43.16,90.09%,3.86%,6.16,6.83%,23.82%,2.25,927.43
+"T","AT&T, Inc","Communication Services","Telecom Services","USA",180001.13,8.24,66.76%,1.22%,1.91,-11.69%,13.65%,1.76,45259.97
+"RWAY","Runway Growth Finance Corp","Financial","Asset Management","USA",357.73,6.70,57.17%,5.54%,7.89,-9.26%,-5.45%,2.27,250.30
+"CMG","Chipotle Mexican Grill","Consumer Cyclical","Restaurants","USA",39734.46,26.48,89.16%,2.23%,1.34,-30.39%,-48.90%,1.63,21819.25
+"FLEX","Flex Ltd","Technology","Electronic Components","USA",22927.00,27.36,102.74%,1.37%,1.34,25.40%,54.65%,1.45,3763.82
+"KODK","Eastman Kodak Co","Industrials","Specialty Business Services","USA",790.48,,38.38%,11.15%,4.31,40.65%,52.99%,,1586.16
+"NU","Nu Holdings Ltd","Financial","Banks - Regional","Cayman Islands",79556.05,35.14,54.09%,3.52%,2.63,37.47%,8.40%,1.63,45168.95
+"DD","DuPont de Nemours Inc","Basic Materials","Specialty Chemicals","USA",17048.10,,74.11%,1.62%,0.89,32.15%,15.58%,1.38,7593.19
+"SOFI","SoFi Technologies Inc","Financial","Credit Services","USA",37588.00,56.52,56.65%,9.34%,1.54,33.83%,139.58%,2.88,71557.20
+"HPE","Hewlett Packard Enterprise Co","Technology","Communication Equipment","USA",30413.32,29.11,86.90%,3.55%,1.64,8.11%,4.58%,2.22,28578.28
+"INTC","Intel Corp","Technology","Semiconductors","USA",181641.61,3592.45,60.88%,2.67%,0.92,59.60%,45.34%,3.13,125652.71
+"UPST","Upstart Holdings Inc","Financial","Credit Services","USA",3803.90,171.64,69.03%,35.10%,4.00,-38.74%,-51.73%,2.50,7394.80
+"DXCM","Dexcom Inc","Healthcare","Medical Devices","USA",22757.45,32.48,93.29%,2.91%,1.85,-27.03%,-16.60%,1.44,6033.96
+"EXEL","Exelixis Inc","Healthcare","Biotechnology","USA",11561.00,18.15,96.70%,7.62%,7.36,12.09%,18.95%,1.90,2687.80
+"FIGS","Figs Inc","Consumer Cyclical","Apparel Manufacturing","USA",1578.85,97.38,88.89%,6.99%,5.25,41.37%,102.30%,2.91,1962.27
+"MAMK","MaxsMaking Inc","Industrials","Conglomerates","China",77.89,1192.05,,70.68%,0.36,419.31%,,,351.76
+"BAC","Bank Of America Corp","Financial","Banks - Diversified","USA",392655.19,14.69,76.47%,1.51%,3.16,12.70%,19.14%,1.63,34942.12
+"BUR","Burford Capital Limited","Financial","Asset Management","United Kingdom",1989.71,23.52,65.23%,3.75%,3.72,-33.06%,-34.23%,1.00,1905.18
+"ARCC","Ares Capital Corp","Financial","Asset Management","USA",14543.57,10.21,31.64%,2.44%,3.41,-10.33%,-5.62%,1.27,5078.05
+"LTH","Life Time Group Holdings Inc","Consumer Cyclical","Leisure","USA",5669.36,20.05,61.47%,3.37%,2.34,-6.20%,2.92%,1.14,2143.87
+"GLBE","Global E Online Ltd","Consumer Cyclical","Internet Retail","Israel",6213.19,,59.63%,5.18%,3.63,19.84%,-8.44%,1.40,1528.23

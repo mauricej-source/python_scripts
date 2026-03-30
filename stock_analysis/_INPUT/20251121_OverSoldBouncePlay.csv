@@ -1,0 +1,61 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"ARCT","Arcturus Therapeutics Holdings Inc","Healthcare","Biotechnology","USA",178.00,,84.63%,26.70%,5.71,-64.62%,-65.31%,1.55,1216.45
+"ARQ","Arq Inc","Industrials","Pollution & Treatment Controls","USA",149.00,,42.01%,4.22%,4.12,-52.58%,-55.93%,1.00,347.85
+"PSFE","Paysafe Limited","Technology","Software - Infrastructure","United Kingdom",400.10,,32.55%,6.70%,5.03,-51.16%,-61.06%,3.00,387.01
+"DOCS","Doximity Inc","Healthcare","Health Information Services","USA",9203.90,38.99,66.11%,3.15%,2.70,-26.38%,-5.13%,2.23,1557.91
+"PRKS","United Parks & Resorts Inc","Consumer Cyclical","Leisure","USA",1729.66,9.71,129.13%,10.79%,5.11,-39.86%,-43.33%,2.38,1125.84
+"ROCK","Gibraltar Industries Inc","Industrials","Building Products & Equipment","USA",1359.76,621.99,102.68%,2.70%,2.48,-29.01%,-32.74%,1.00,317.62
+"KLC","KinderCare Learning Companies Inc","Consumer Defensive","Education & Training Services","USA",471.50,,25.10%,7.18%,2.34,-47.36%,-83.14%,2.62,956.09
+"SMTI","Sanara MedTech Inc","Healthcare","Medical Instruments & Supplies","USA",177.82,,12.80%,6.41%,5.45,-39.57%,-46.14%,1.00,36.12
+"NX","Quanex Building Products Corp","Industrials","Building Products & Equipment","USA",536.07,,99.57%,5.06%,3.72,-46.91%,-60.91%,1.00,617.48
+"CBRL","Cracker Barrel Old Country Store Inc","Consumer Cyclical","Restaurants","USA",600.14,13.05,105.34%,24.48%,3.23,-50.34%,-42.93%,3.10,1656.84
+"SSTI","SoundThinking Inc","Technology","Software - Application","USA",77.58,,58.47%,3.64%,3.41,-51.97%,-48.04%,1.29,100.13
+"OC","Owens Corning","Industrials","Building Products & Equipment","USA",8375.33,,97.24%,3.49%,2.21,-33.62%,-47.50%,1.95,1283.15
+"BLSX","Tradr 2X Long BLSH Daily ETF","Financial","Exchange Traded Fund","USA",,,,,0.24,,,,14.67
+"ELTK","Eltek Ltd","Technology","Electronic Components","Israel",57.01,49.79,10.99%,0.08%,0.46,-15.61%,-22.89%,1.00,5.38
+"KRRO","Korro Bio Inc","Healthcare","Biotechnology","USA",58.39,,68.99%,22.21%,2.44,-69.11%,-86.70%,3.00,476.60
+"JBI","Janus International Group Inc","Industrials","Building Products & Equipment","USA",826.02,17.71,101.92%,2.65%,3.48,-43.28%,-16.08%,1.80,1007.49
+"IMMR","Immersion Corp","Technology","Software - Application","USA",189.52,2.24,48.78%,10.13%,6.65,-14.72%,-29.75%,2.00,410.45
+"ONEW","Onewater Marine Inc","Consumer Cyclical","Specialty Retail","USA",179.58,,76.21%,17.27%,16.20,-36.26%,-43.01%,2.00,128.25
+"TME","Tencent Music Entertainment Group ADR","Communication Services","Internet Content & Information","China",10497.45,18.90,75.51%,2.45%,2.42,-29.16%,63.41%,1.41,5833.33
+"ANGI","Angi Inc","Communication Services","Internet Content & Information","USA",468.19,14.72,89.59%,16.01%,6.13,-39.11%,-45.20%,2.25,901.33
+"TREX","TREX Co., Inc","Industrials","Building Products & Equipment","USA",3329.19,16.83,104.95%,7.44%,3.26,-51.18%,-53.97%,2.64,2426.77
+"GMEU","T-REX 2X Long GME Daily Target ETF","Financial","Exchange Traded Fund","USA",,,,,0.73,-28.87%,,,396.32
+"AMWD","American Woodmark Corp","Consumer Cyclical","Furnishings, Fixtures & Appliances","USA",717.67,8.79,100.00%,5.45%,4.16,-26.50%,-47.86%,2.00,184.85
+"GAMB","Gambling.com Group Ltd","Consumer Cyclical","Gambling","United Kingdom",170.36,93.46,41.37%,11.85%,2.75,-44.17%,-61.78%,1.44,825.65
+"ENR","Energizer Holdings Inc","Industrials","Electrical Equipment & Parts","USA",1241.32,5.46,93.68%,9.99%,6.25,-35.28%,-51.30%,2.67,974.64
+"CHTR","Charter Communications Inc","Communication Services","Telecom Services","USA",51658.93,5.50,84.28%,17.93%,7.94,-27.01%,-48.14%,2.62,2001.69
+"NVAX","Novavax, Inc","Healthcare","Biotechnology","USA",1035.93,3.60,60.77%,32.58%,9.39,-15.23%,-20.31%,2.50,5144.40
+"TZOO","Travelzoo","Communication Services","Internet Content & Information","USA",74.28,10.41,49.12%,7.16%,3.99,-29.88%,-63.21%,1.00,127.76
+"VOR","Vor Biopharma Inc","Healthcare","Biotechnology","USA",143.49,,16.55%,7.11%,1.60,-82.94%,-54.06%,1.33,569.17
+"LBRDK","Liberty Broadband Corp","Communication Services","Telecom Services","USA",6602.70,8.35,73.22%,3.68%,3.89,-26.53%,-43.23%,3.00,1078.04
+"PRMB","Primo Brands Corp","Consumer Defensive","Beverages - Non-Alcoholic","USA",5676.48,,74.65%,6.61%,2.60,-38.21%,-45.83%,1.47,6366.38
+"LI","Li Auto Inc ADR","Consumer Cyclical","Auto Manufacturers","China",15011.11,17.14,4.15%,2.46%,3.94,-24.77%,-22.14%,1.95,5164.79
+"HD","Home Depot, Inc","Consumer Cyclical","Home Improvement Retail","USA",338331.90,23.17,73.46%,1.04%,2.92,-16.87%,-16.45%,1.92,3558.13
+"NIO","NIO Inc ADR","Consumer Cyclical","Auto Manufacturers","China",10718.84,,14.96%,8.02%,1.96,-9.44%,19.11%,1.97,78203.78
+"CRCO","YieldMax CRCL Option Income Strategy ETF","Financial","Exchange Traded Fund","USA",,,,,0.29,,,,46.02
+"YMM","Full Truck Alliance Co Ltd ADR","Technology","Software - Application","China",9710.29,20.16,71.27%,2.60%,2.75,-18.85%,21.59%,1.36,8213.99
+"BLSG","Leverage Shares 2X Long BLSH Daily ETF","Financial","Exchange Traded Fund","USA",,,,,0.00,,,,20.22
+"URI","United Rentals, Inc","Industrials","Rental & Leasing Services","USA",49980.85,20.21,94.15%,2.32%,2.77,-16.39%,-4.34%,1.92,530.03
+"DLLL","GraniteShares 2x Long DELL Daily ETF","Financial","Exchange Traded Fund","USA",,,,,0.06,-23.69%,,,126.28
+"CRCL","Circle Internet Group Inc","Financial","Capital Markets","USA",16047.64,,24.46%,14.60%,1.54,-45.58%,,2.33,12722.50
+"SPOK","Spok Holdings Inc","Healthcare","Health Information Services","USA",260.57,15.81,61.07%,1.45%,2.15,-28.73%,-20.69%,1.00,136.69
+"IGME","Bitwise GME Option Income Strategy ETF","Financial","Exchange Traded Fund","USA",,,,,1.43,-24.03%,,,4.15
+"CVGW","Calavo Growers, Inc","Consumer Defensive","Food Distribution","USA",344.21,22.00,73.78%,2.35%,1.84,-29.99%,-28.86%,1.67,212.60
+"PEW","GrabAGun Digital Holdings Inc","Industrials","Aerospace & Defense","USA",110.76,,14.21%,12.20%,3.17,-31.79%,-65.02%,1.00,783.77
+"DUOL","Duolingo Inc","Technology","Software - Application","USA",7875.87,21.71,87.05%,12.11%,2.39,-46.89%,-46.99%,2.11,1921.06
+"AVXL","Anavex Life Sciences Corporation","Healthcare","Biotechnology","USA",276.57,,38.12%,32.12%,14.02,-65.74%,-60.92%,1.67,1901.53
+"ASIX","AdvanSix Inc","Basic Materials","Chemicals","USA",392.21,7.59,91.57%,3.83%,3.45,-29.26%,-49.81%,1.00,286.18
+"VRRM","Verra Mobility Corp","Technology","Information Technology Services","USA",3377.18,66.22,100.55%,1.62%,2.20,-15.20%,-8.02%,1.43,1161.31
+"ARDT","Ardent Health Inc","Healthcare","Medical Care Facilities","USA",1254.32,6.07,14.04%,8.49%,5.82,-30.97%,-47.36%,1.75,475.21
+"DELL","Dell Technologies Inc","Technology","Computer Hardware","USA",80022.49,17.50,36.33%,4.48%,1.93,-9.16%,-12.42%,1.79,7348.66
+"DJT","Trump Media & Technology Group Corp","Communication Services","Internet Content & Information","USA",2937.24,,23.63%,8.59%,2.10,-39.08%,-64.88%,,6557.78
+"SEZL","Sezzle Inc","Financial","Credit Services","USA",1813.70,16.46,30.10%,20.29%,3.84,-42.46%,-25.18%,1.50,893.04
+"SMCX","Defiance Daily Target 2x Long SMCI ETF","Financial","Exchange Traded Fund","USA",,,,,0.90,-57.10%,-64.32%,,2196.09
+"ULTY","YieldMax Ultra Option Income Strategy ETF","Financial","Exchange Traded Fund","USA",,,,,2.07,-31.36%,-60.00%,,35389.53
+"IIIV","i3 Verticals Inc","Technology","Software - Infrastructure","USA",765.82,128.95,114.88%,10.01%,11.56,-23.57%,2.37%,1.40,196.20
+"SMCL","GraniteShares 2x Long SMCI Daily ETF","Financial","Exchange Traded Fund","USA",,,,,0.22,-56.51%,,,1676.25
+"DAVA","Endava plc ADR","Technology","Software - Infrastructure","United Kingdom",263.85,30.99,56.65%,5.64%,1.79,-55.44%,-76.35%,2.27,1344.78
+"CELT","Tradr 2X Long CELH Daily ETF","Financial","Exchange Traded Fund","USA",,,,,0.11,,,,36.49
+"ABNB","Airbnb Inc","Consumer Cyclical","Travel Services","USA",69378.61,26.67,57.53%,4.33%,3.75,-12.05%,-14.25%,2.64,4816.31
+"JFIN","Jiayin Group Inc ADR","Communication Services","Internet Content & Information","China",204.36,1.85,3.58%,,1.18,-45.58%,13.97%,1.00,90.50

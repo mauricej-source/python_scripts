@@ -1,0 +1,39 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"CSTL","Castle Biosciences Inc","Healthcare","Diagnostics & Research","USA",917.54,,94.69%,5.71%,3.47,60.07%,-8.77%,1.12,462.90
+"SAGT","Sagtec Global Ltd","Technology","Software - Application","Malaysia",28.62,2.87,1.44%,0.55%,0.20,2.24%,,,106.46
+"EVER","EverQuote Inc","Communication Services","Internet Content & Information","USA",886.53,16.97,74.64%,5.86%,3.29,-2.96%,35.04%,1.62,498.04
+"FUBO","fuboTV Inc","Communication Services","Broadcasting","USA",1260.16,10.26,48.13%,18.31%,4.05,-1.60%,111.49%,2.43,15236.02
+"CTRA","Coterra Energy Inc","Energy","Oil & Gas E&P","USA",19727.16,12.39,94.81%,4.18%,3.90,6.60%,8.07%,1.59,8061.16
+"AUDC","Audiocodes","Technology","Communication Equipment","Israel",264.39,20.65,35.74%,1.85%,3.87,-6.43%,1.19%,2.00,94.75
+"EMN","Eastman Chemical Co","Basic Materials","Specialty Chemicals","USA",6974.92,10.14,92.18%,3.55%,2.01,-0.30%,-42.20%,1.86,2011.35
+"DXC","DXC Technology Co","Technology","Information Technology Services","USA",2357.78,6.69,90.41%,6.28%,5.98,2.19%,-31.82%,3.36,1837.63
+"KURA","Kura Oncology Inc","Healthcare","Biotechnology","USA",864.50,,94.91%,12.67%,5.57,65.17%,-40.43%,1.33,1905.09
+"YUMC","Yum China Holdings Inc","Consumer Cyclical","Restaurants","China",16525.94,18.52,81.38%,1.75%,3.61,0.04%,1.61%,1.36,1724.14
+"CMCSA","Comcast Corp","Communication Services","Telecom Services","USA",99988.47,4.56,85.45%,1.48%,2.17,-14.68%,-37.17%,2.39,24977.84
+"GENI","Genius Sports Limited","Communication Services","Internet Content & Information","United Kingdom",2845.59,,93.74%,10.13%,4.17,-3.60%,64.23%,1.11,5288.85
+"WBD","Warner Bros. Discovery Inc","Communication Services","Entertainment","USA",55952.45,74.83,72.96%,3.28%,1.43,76.70%,177.98%,2.03,53515.21
+"FTS","Fortis Inc","Utilities","Utilities - Regulated Electric","Canada",25431.80,20.74,55.05%,1.62%,13.70,0.12%,16.82%,3.00,594.62
+"MYD","BlackRock MuniYield Fund Inc","Financial","Closed-End Fund - Debt","USA",487.06,,32.81%,0.16%,0.68,6.08%,-3.62%,,107.06
+"MED","Medifast Inc","Consumer Cyclical","Personal Services","USA",131.67,573.21,79.07%,19.62%,12.73,-7.56%,-34.82%,3.00,163.85
+"MIY","BlackRock MuniYield Michigan Quality Fund Inc","Financial","Closed-End Fund - Debt","USA",335.70,,18.04%,0.02%,0.07,2.66%,-0.26%,,62.52
+"MHN","BlackRock MuniHoldings New York Quality Fund Inc","Financial","Closed-End Fund - Debt","USA",313.00,,35.79%,0.17%,0.69,6.70%,-2.91%,,74.93
+"BYM","BlackRock Municipal Income Quality Trust","Financial","Closed-End Fund - Debt","USA",284.94,,32.92%,0.13%,0.40,4.36%,-4.51%,,84.71
+"MPLX","MPLX LP","Energy","Oil & Gas Midstream","USA",52176.18,12.15,21.13%,2.03%,4.90,-0.21%,15.26%,2.00,1522.41
+"MYI","BlackRock MuniYield Quality Fund III Inc","Financial","Closed-End Fund - Debt","USA",735.13,,28.13%,0.20%,0.70,5.03%,-1.86%,,189.69
+"BKN","BlackRock Investment Quality Municipal Trust","Financial","Closed-End Fund - Debt","USA",193.57,,27.75%,0.10%,0.34,4.55%,-8.31%,,51.26
+"MUJ","BlackRock MuniHoldings New Jersey Quality Fund Inc","Financial","Closed-End Fund - Debt","USA",629.71,,13.55%,0.21%,0.94,8.13%,1.46%,,118.87
+"BHK","BlackRock Core Bond Trust","Financial","Closed-End Fund - Debt","USA",705.63,16.84,38.93%,0.21%,0.47,0.72%,-13.65%,,316.36
+"MQT","BlackRock MuniYield Quality Fund II Inc","Financial","Closed-End Fund - Debt","USA",222.88,,34.38%,0.04%,0.13,5.23%,-2.99%,,69.26
+"MVT","BlackRock Munivest Fund II Inc","Financial","Closed-End Fund - Debt","USA",224.26,,45.41%,0.05%,0.19,6.02%,-2.18%,,59.06
+"HRL","Hormel Foods Corp","Consumer Defensive","Packaged Foods","USA",11868.97,15.73,43.88%,5.15%,3.35,-23.64%,-29.36%,2.62,4468.00
+"BTA","BlackRock Long-Term Municipal Advantage Trust","Financial","Closed-End Fund - Debt","USA",128.08,,24.10%,0.22%,0.74,6.60%,-7.12%,,39.79
+"BKT","BlackRock Income Trust Inc","Financial","Closed-End Fund - Debt","USA",270.85,12.53,39.97%,5.42%,7.80,-4.16%,-4.73%,,168.72
+"MUE","BlackRock MuniHoldings Quality Fund II Inc","Financial","Closed-End Fund - Debt","USA",221.15,,45.41%,0.15%,0.45,5.65%,-2.42%,,74.32
+"IAS","Integral Ad Science Holding Corp","Communication Services","Advertising Agencies","USA",1701.51,30.56,44.90%,8.76%,2.20,26.89%,-13.51%,3.00,2983.48
+"BTT","BlackRock Municipal 2030 Target Term Trust","Financial","Closed-End Fund - Debt","USA",1446.78,24.87,39.52%,0.07%,0.50,1.85%,6.69%,,93.47
+"BGY","BlackRock Enhanced International Dividend Trust","Financial","Closed-End Fund - Foreign","USA",521.94,44.31,42.94%,0.13%,0.55,1.23%,4.92%,,217.09
+"MHD","BlackRock MuniHoldings Fund Inc","Financial","Closed-End Fund - Debt","USA",613.71,,48.98%,0.03%,0.14,4.44%,-3.68%,,110.26
+"MYN","BlackRock MuniYield New York Quality Fund Inc","Financial","Closed-End Fund - Debt","USA",385.43,,26.93%,0.46%,1.77,6.91%,-2.61%,,98.66
+"BNY","BlackRock New York Municipal Income Trust","Financial","Closed-End Fund - Debt","USA",245.03,,21.74%,0.15%,0.48,5.18%,-4.60%,,75.21
+"MUC","BlackRock MuniHoldings California Quality Fund Inc","Financial","Closed-End Fund - Debt","USA",1020.95,,30.90%,0.06%,0.22,5.34%,-2.17%,,263.15
+"BME","BlackRock Health Sciences Trust","Financial","Closed-End Fund - Equity","USA",493.83,,22.08%,0.10%,0.23,8.03%,-4.31%,,55.43

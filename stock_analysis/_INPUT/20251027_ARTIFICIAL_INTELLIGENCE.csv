@@ -1,0 +1,38 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"ONFO","Onfolio Holdings Inc","Communication Services","Internet Content & Information","USA",6.10,,1.63%,1.58%,0.10,4.39%,10.19%,1.00,569.97
+"LMND","Lemonade Inc","Financial","Insurance - Property & Casualty","USA",4308.96,,53.98%,25.76%,5.88,59.65%,213.37%,3.50,2659.97
+"ETH","Grayscale Ethereum Mini Trust ETF","Financial","Exchange Traded Fund","USA",,,,,0.36,11.76%,67.88%,,5948.66
+"SMCI","Super Micro Computer Inc","Technology","Computer Hardware","USA",30391.56,30.82,52.04%,16.56%,2.56,-12.77%,12.74%,2.55,33038.16
+"BROS","Dutch Bros Inc","Consumer Cyclical","Restaurants","USA",9897.77,127.76,83.83%,9.39%,2.89,3.18%,73.08%,1.32,4010.08
+"SURG","Surgepays Inc","Communication Services","Telecom Services","USA",59.05,,7.84%,1.28%,1.38,6.64%,64.20%,2.00,118.89
+"LAZR","Luminar Technologies Inc","Consumer Cyclical","Auto Parts","USA",160.22,,19.31%,22.36%,2.32,-24.84%,-80.34%,3.50,5512.16
+"GMHS","Gamehaus Holdings Inc","Communication Services","Electronic Gaming & Multimedia","China",72.31,5.29,0.25%,16.93%,0.13,-14.06%,-87.65%,,3468.06
+"RGTI","Rigetti Computing Inc","Technology","Computer Hardware","USA",13161.10,,38.35%,13.09%,0.55,180.58%,3255.37%,1.00,75815.57
+"OUST","Ouster Inc","Technology","Electronic Components","USA",2163.42,,47.42%,10.52%,1.95,61.18%,379.09%,1.33,2826.97
+"BTC","Grayscale Bitcoin Mini Trust ETF","Financial","Exchange Traded Fund","USA",,,,,0.14,-2.15%,73.20%,,1491.71
+"SOFI","SoFi Technologies Inc","Financial","Credit Services","USA",35605.18,60.58,52.94%,8.64%,1.40,34.09%,188.26%,2.92,71413.60
+"FRPT","Freshpet Inc","Consumer Defensive","Packaged Foods","USA",2729.25,84.59,117.92%,14.11%,4.43,-21.12%,-58.01%,1.94,1521.22
+"GTM","ZoomInfo Technologies Inc","Technology","Software - Application","USA",3651.50,43.79,86.09%,9.88%,5.91,2.87%,10.72%,3.04,4498.43
+"HPE","Hewlett Packard Enterprise Co","Technology","Communication Equipment","USA",31844.92,30.48,87.27%,3.36%,1.73,15.76%,24.99%,2.17,25516.64
+"MNY","MoneyHero Ltd","Communication Services","Internet Content & Information","Singapore",58.76,,0.16%,1.39%,0.52,-23.16%,25.93%,1.00,270.43
+"AIQ","Global X Artificial Intelligence & Technology ETF","Financial","Exchange Traded Fund","USA",,,,,0.38,18.25%,43.39%,,1556.62
+"ARTY","iShares Future AI & Tech ETF","Financial","Exchange Traded Fund","USA",,,,,0.82,15.44%,44.74%,,588.87
+"ONDS","Ondas Holdings Inc","Technology","Communication Equipment","USA",2657.18,,16.04%,4.15%,0.28,318.13%,789.54%,1.62,47305.50
+"TTGT","Techtarget Inc","Technology","Information Technology Services","USA",433.58,,38.85%,8.14%,3.65,-22.84%,,1.00,632.82
+"ATON","AlphaTON Capital Corp","Financial","Asset Management","United Kingdom",33.14,,0.35%,6.90%,0.19,-8.38%,-7.45%,3.00,798.06
+"DTCR","Global X Data Center & Digital Infrastructure ETF","Financial","Exchange Traded Fund","USA",,,,,1.14,17.56%,28.73%,,340.05
+"DX","Dynex Capital, Inc","Real Estate","REIT - Mortgage","USA",1766.15,9.17,43.07%,7.14%,1.94,6.46%,7.98%,1.40,4692.46
+"KHC","Kraft Heinz Co","Consumer Defensive","Packaged Foods","USA",30270.08,,84.74%,4.65%,3.93,-10.45%,-27.96%,2.87,13944.61
+"TFC","Truist Financial Corporation","Financial","Banks - Regional","USA",57566.84,11.97,74.93%,2.37%,3.97,-0.19%,2.77%,2.31,7675.17
+"NU","Nu Holdings Ltd","Financial","Banks - Regional","Cayman Islands",76929.89,33.98,54.35%,3.02%,2.21,26.41%,8.24%,1.63,46311.26
+"FLEX","Flex Ltd","Technology","Electronic Components","USA",24289.15,28.42,101.82%,1.46%,1.49,24.93%,89.72%,1.58,3651.95
+"UGP","Ultrapar Participacoes S.A. ADR","Energy","Oil & Gas Refining & Marketing","Brazil",4237.64,8.50,5.11%,0.24%,1.26,25.65%,9.41%,2.08,2087.77
+"FTGS","First Trust Growth Strength ETF","Financial","Exchange Traded Fund","USA",,,,,0.07,3.55%,16.45%,,141.12
+"WMB","Williams Cos Inc","Energy","Oil & Gas Midstream","USA",70522.13,29.14,87.84%,1.05%,1.91,-1.94%,10.52%,1.96,6692.91
+"SRVR","Pacer Data & Infrastructure Real Estate ETF","Financial","Exchange Traded Fund","USA",,,,,0.07,-0.82%,0.64%,,54.12
+"CENT","Central Garden & Pet Co","Consumer Defensive","Packaged Foods","USA",1865.77,14.65,15.64%,8.39%,9.29,-18.46%,-4.60%,1.67,74.36
+"CTRA","Coterra Energy Inc","Energy","Oil & Gas E&P","USA",18049.71,11.34,93.77%,4.18%,3.98,-2.35%,-0.12%,1.57,7884.76
+"BBW","Build A Bear Workshop Inc","Consumer Cyclical","Specialty Retail","USA",731.03,12.48,97.12%,17.00%,5.77,8.73%,51.63%,1.00,365.75
+"PCG","PG&E Corp","Utilities","Utilities - Regulated Electric","USA",36115.13,14.01,96.23%,1.83%,1.59,17.46%,-20.16%,1.74,25077.46
+"PKX","POSCO Holdings Inc ADR","Basic Materials","Steel","South Korea",16960.54,47.81,2.41%,0.42%,9.92,-1.16%,-7.99%,1.21,129.20
+"AL","Air Lease Corp","Industrials","Rental & Leasing Services","USA",7108.25,7.72,90.61%,1.72%,0.87,11.46%,44.68%,2.67,2056.96

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <title>Most Frequent Tickers by News SubCategory (20250817 to 20251001)</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #333; }
+        table { width: 65%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; vertical-align: top; }
+        th { background-color: #f2f2f2; }
+        tr.group-separator td { border-top: 3px solid #000; background-color: #f0f0f0; height: 5px; padding: 0; }
+        .main-report td:nth-child(3) { text-align: center; }
+        .diverse-table td:nth-child(2), .diverse-table td:nth-child(3) { text-align: center; }
+        .diverse-table ul { list-style-type: none; padding: 0; margin: 0; }
+    </style>
+</head>
+<body>
+<h1>Most Frequent Tickers by SubCategory</h1>
+<h3>Data Filtered: 20250817 to 20251001</h3>
+<p><strong>Consolidated Screener:</strong> <a href="https://elite.finviz.com/screener.ashx?v=111&t=ABSI,ACLS,AEMD,ALT,AMAT,APP,ATYR,AYI,BBAI,BLBD,BLNK,BMBL,CAPR,CCLD,CHRS,CLSK,CRDF,CTMX,CYCU,DDD,DNUT,DUST,DVLT,ENVA,ETHD,EVGO,EZGO,FLNC,FLWS,GAP,GBX,GCT,GPUS,GRBK,GSIW,HIMS,HUMA,HUT,IESC,INDI,INMD,IRBT,KULR,LAZR,LRCX,MOB,MPW,MU,MVST,NFE,NSSC,NUVB,NVDA,NVMI,NVTS,ODD,OMER,OPAD,PDYN,PGEN,PLUG,PRG,PRME,PROP,RAYA,REPL,RL,RXRX,SANA,SLS,SMCI,SMCX,SPCE,SPWR,STFS,TMHC,TNGX,TSLQ,UAA,VCIG,VUZI,WOLF,WSM,WTI,XXII,YETI,ZYXI" target="_blank">View All 87 Tickers on FinViz</a></p>
+<h2>Tickers Occurring in Multiple Subcategories ($\ge$ 3 Occurrences each)</h2>
+<table class="diverse-table">
+    <thead>
+        <tr>
+            <th>Ticker</th>
+            <th>Total Occurrences</th>
+            <th>Subcategory Diversity (Subcategory: Count)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=CYCU" target="_blank">CYCU</a></td>
+            <td>6</td>
+            <td><ul><li>OffMovingAverages (3)</li><li>BreakOut (3)</li></ul></td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=DVLT" target="_blank">DVLT</a></td>
+            <td>6</td>
+            <td><ul><li>OffMovingAverages (3)</li><li>BreakOut (3)</li></ul></td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ETHD" target="_blank">ETHD</a></td>
+            <td>6</td>
+            <td><ul><li>OffMovingAverages (3)</li><li>BreakOut (3)</li></ul></td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GPUS" target="_blank">GPUS</a></td>
+            <td>7</td>
+            <td><ul><li>BreakOut (4)</li><li>OffMovingAverages (3)</li></ul></td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GSIW" target="_blank">GSIW</a></td>
+            <td>10</td>
+            <td><ul><li>OffMovingAverages (5)</li><li>BreakOut (5)</li></ul></td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=NFE" target="_blank">NFE</a></td>
+            <td>13</td>
+            <td><ul><li>ShortSqueeze (7)</li><li>OffMovingAverages (3)</li><li>BreakOut (3)</li></ul></td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=RAYA" target="_blank">RAYA</a></td>
+            <td>14</td>
+            <td><ul><li>OffMovingAverages (7)</li><li>BreakOut (7)</li></ul></td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=SMCX" target="_blank">SMCX</a></td>
+            <td>6</td>
+            <td><ul><li>OffMovingAverages (3)</li><li>BreakOut (3)</li></ul></td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=STFS" target="_blank">STFS</a></td>
+            <td>6</td>
+            <td><ul><li>OffMovingAverages (3)</li><li>BreakOut (3)</li></ul></td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=XXII" target="_blank">XXII</a></td>
+            <td>6</td>
+            <td><ul><li>OffMovingAverages (3)</li><li>BreakOut (3)</li></ul></td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<h2>Main Report: Grouped by Subcategory (Occurrences $\ge$ 3)</h2>
+<table class="main-report">
+    <thead>
+        <tr>
+            <th>Ticker</th>
+            <th>SubCategory</th>
+            <th>Occurrences</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=RAYA" target="_blank">RAYA</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>7</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GSIW" target="_blank">GSIW</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GPUS" target="_blank">GPUS</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>4</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=CYCU" target="_blank">CYCU</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=DVLT" target="_blank">DVLT</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ETHD" target="_blank">ETHD</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=EZGO" target="_blank">EZGO</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=NFE" target="_blank">NFE</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=SMCX" target="_blank">SMCX</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=STFS" target="_blank">STFS</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=XXII" target="_blank">XXII</a></td>
+            <td>BreakOut</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr class='group-separator'><td colspan='3'></td></tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=AMAT" target="_blank">AMAT</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>13</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=CLSK" target="_blank">CLSK</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>12</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=IESC" target="_blank">IESC</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>12</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=RL" target="_blank">RL</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>12</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=APP" target="_blank">APP</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>11</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=LRCX" target="_blank">LRCX</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>11</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ENVA" target="_blank">ENVA</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>10</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GCT" target="_blank">GCT</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>10</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=HIMS" target="_blank">HIMS</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>10</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=HUT" target="_blank">HUT</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>10</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=INMD" target="_blank">INMD</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>10</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=AYI" target="_blank">AYI</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=NSSC" target="_blank">NSSC</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=NVDA" target="_blank">NVDA</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=NVMI" target="_blank">NVMI</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=SMCI" target="_blank">SMCI</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ACLS" target="_blank">ACLS</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>8</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=BLBD" target="_blank">BLBD</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>7</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=CCLD" target="_blank">CCLD</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GRBK" target="_blank">GRBK</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=WSM" target="_blank">WSM</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ODD" target="_blank">ODD</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=YETI" target="_blank">YETI</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=TMHC" target="_blank">TMHC</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>4</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GAP" target="_blank">GAP</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GBX" target="_blank">GBX</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=MU" target="_blank">MU</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=PRG" target="_blank">PRG</a></td>
+            <td>BuyAndHold</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr class='group-separator'><td colspan='3'></td></tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=RAYA" target="_blank">RAYA</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>7</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GSIW" target="_blank">GSIW</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=CYCU" target="_blank">CYCU</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=DVLT" target="_blank">DVLT</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ETHD" target="_blank">ETHD</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=GPUS" target="_blank">GPUS</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=NFE" target="_blank">NFE</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=SMCX" target="_blank">SMCX</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=STFS" target="_blank">STFS</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=XXII" target="_blank">XXII</a></td>
+            <td>OffMovingAverages</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr class='group-separator'><td colspan='3'></td></tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=DUST" target="_blank">DUST</a></td>
+            <td>OverSold</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=TSLQ" target="_blank">TSLQ</a></td>
+            <td>OverSold</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=VCIG" target="_blank">VCIG</a></td>
+            <td>OverSold</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr class='group-separator'><td colspan='3'></td></tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=PRME" target="_blank">PRME</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>13</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=VUZI" target="_blank">VUZI</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>12</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=BBAI" target="_blank">BBAI</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>11</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=NVTS" target="_blank">NVTS</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>11</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=PLUG" target="_blank">PLUG</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>11</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=BLNK" target="_blank">BLNK</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>10</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=DDD" target="_blank">DDD</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>10</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=EVGO" target="_blank">EVGO</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>10</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=SPCE" target="_blank">SPCE</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>10</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=HUMA" target="_blank">HUMA</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=KULR" target="_blank">KULR</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=RXRX" target="_blank">RXRX</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=SANA" target="_blank">SANA</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=SPWR" target="_blank">SPWR</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=WTI" target="_blank">WTI</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>9</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ALT" target="_blank">ALT</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>8</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=CAPR" target="_blank">CAPR</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>8</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=CTMX" target="_blank">CTMX</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>8</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=MPW" target="_blank">MPW</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>8</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=DNUT" target="_blank">DNUT</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>7</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=NFE" target="_blank">NFE</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>7</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=PDYN" target="_blank">PDYN</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>7</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ABSI" target="_blank">ABSI</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=BMBL" target="_blank">BMBL</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=CHRS" target="_blank">CHRS</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=CRDF" target="_blank">CRDF</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=FLNC" target="_blank">FLNC</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=IRBT" target="_blank">IRBT</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=MVST" target="_blank">MVST</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=SLS" target="_blank">SLS</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=WOLF" target="_blank">WOLF</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ZYXI" target="_blank">ZYXI</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>6</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=FLWS" target="_blank">FLWS</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=INDI" target="_blank">INDI</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=LAZR" target="_blank">LAZR</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=MOB" target="_blank">MOB</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=NUVB" target="_blank">NUVB</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=TNGX" target="_blank">TNGX</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=UAA" target="_blank">UAA</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>5</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=OMER" target="_blank">OMER</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>4</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=OPAD" target="_blank">OPAD</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>4</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=PGEN" target="_blank">PGEN</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>4</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=PROP" target="_blank">PROP</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>4</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=REPL" target="_blank">REPL</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>4</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=AEMD" target="_blank">AEMD</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+        <tr>
+            <td><a href="https://elite.finviz.com/quote.ashx?t=ATYR" target="_blank">ATYR</a></td>
+            <td>ShortSqueeze</td>
+            <td style='text-align: center;'>3</td>
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>

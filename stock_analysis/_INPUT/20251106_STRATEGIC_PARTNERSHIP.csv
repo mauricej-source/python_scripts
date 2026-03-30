@@ -1,0 +1,64 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"ALTO","Alto Ingredients Inc","Basic Materials","Specialty Chemicals","USA",119.19,,29.02%,0.65%,1.01,45.28%,-20.62%,1.00,433.13
+"SKYT","SkyWater Technology Inc","Technology","Semiconductors","USA",882.10,,35.96%,12.85%,2.08,30.04%,89.15%,1.33,1834.64
+"LZ","LegalZoom.com Inc","Industrials","Specialty Business Services","USA",2244.11,76.43,62.99%,10.14%,4.98,13.39%,74.13%,2.40,2426.99
+"FWRD","Forward Air Corp","Industrials","Integrated Freight & Logistics","USA",651.26,,88.13%,21.37%,5.97,-30.08%,-37.30%,2.00,750.96
+"FSLY","Fastly Inc","Technology","Software - Application","USA",1409.15,,73.19%,7.77%,3.27,36.77%,34.84%,2.90,3179.39
+"MQ","Marqeta Inc","Technology","Software - Infrastructure","USA",2362.18,,69.34%,4.00%,3.43,-19.17%,-11.43%,2.50,4289.96
+"SES","SES AI Corporation","Consumer Cyclical","Auto Parts","USA",944.77,,17.40%,3.67%,0.58,129.20%,475.94%,2.33,13926.11
+"NXDR","Nextdoor Holdings Inc","Communication Services","Internet Content & Information","USA",755.16,,37.04%,2.29%,2.69,-6.25%,-19.42%,2.60,1789.62
+"ECPG","Encore Capital Group, Inc","Financial","Credit Services","USA",1097.77,,106.23%,5.43%,4.00,21.70%,5.22%,1.40,298.64
+"PENN","PENN Entertainment Inc","Consumer Cyclical","Resorts & Casinos","USA",2651.45,,100.94%,10.97%,4.64,7.08%,-4.72%,2.10,3404.53
+"SPT","Sprout Social Inc","Technology","Software - Application","USA",658.01,,84.45%,8.06%,3.31,-19.80%,-59.48%,2.25,1238.73
+"RDVT","Red Violet Inc","Technology","Software - Application","USA",824.27,97.94,66.00%,8.39%,10.82,39.57%,97.94%,1.00,87.33
+"TTAM","Titan America SA","Basic Materials","Building Materials","Belgium",2944.27,,17.50%,12.22%,12.44,6.47%,,2.50,241.01
+"WRAP","Wrap Technologies Inc","Technology","Scientific & Technical Instruments","USA",135.47,,8.70%,16.59%,15.08,108.73%,70.23%,3.00,377.33
+"AEVA","Aeva Technologies Inc","Technology","Software - Infrastructure","USA",829.71,,56.44%,25.16%,3.56,11.76%,282.60%,1.40,2403.17
+"CUE","Cue Biopharma Inc","Healthcare","Biotechnology","USA",60.04,,23.86%,0.45%,1.83,-5.98%,-47.56%,1.00,187.52
+"CVRX","CVRx Inc","Healthcare","Medical Devices","USA",272.01,,32.80%,11.51%,8.84,43.66%,-30.89%,1.57,203.36
+"RVMD","Revolution Medicines Inc","Healthcare","Biotechnology","USA",11776.80,,91.69%,11.95%,8.85,80.00%,12.76%,1.05,2188.81
+"LYFT","Lyft Inc","Technology","Software - Application","USA",8657.21,97.30,92.07%,17.23%,3.07,58.84%,56.85%,2.55,20681.18
+"DLX","Deluxe Corp","Industrials","Conglomerates","USA",865.38,15.02,88.20%,6.47%,8.97,0.73%,2.66%,1.67,316.19
+"QTWO","Q2 Holdings Inc","Technology","Software - Application","USA",4000.69,1045.19,103.41%,5.15%,2.47,-12.98%,-24.07%,1.71,1247.84
+"ACAD","Acadia Pharmaceuticals Inc","Healthcare","Biotechnology","USA",3930.99,17.51,100.82%,5.23%,4.16,-5.28%,59.37%,1.85,2105.25
+"IHRT","iHeartMedia Inc","Communication Services","Broadcasting","USA",639.75,,73.56%,4.92%,4.11,194.00%,131.72%,3.50,1380.60
+"HLF","Herbalife Ltd","Consumer Defensive","Packaged Foods","USA",884.65,2.70,103.05%,12.21%,7.92,-3.60%,4.25%,2.75,1541.40
+"KVYO","Klaviyo Inc","Technology","Software - Infrastructure","USA",8396.29,,32.04%,6.44%,2.32,-13.48%,-29.09%,1.17,2964.52
+"DKNG","DraftKings Inc","Consumer Cyclical","Gambling","USA",25848.40,,83.01%,7.31%,2.51,-32.23%,-18.58%,1.50,13965.78
+"AMCR","Amcor Plc","Consumer Cyclical","Packaging & Containers","Switzerland",19367.15,23.26,73.36%,3.26%,3.01,-13.24%,-17.75%,1.76,24898.72
+"SDGR","Schrodinger Inc","Healthcare","Health Information Services","USA",1508.92,,102.79%,15.38%,7.97,6.72%,12.39%,1.70,1210.02
+"BGS","B&G Foods, Inc","Consumer Defensive","Packaged Foods","USA",329.61,,77.64%,18.15%,5.67,1.23%,-52.42%,3.40,2460.83
+"DGNX","Diginex Ltd","Industrials","Consulting Services","United Kingdom",4160.17,,0.25%,0.62%,0.44,273.70%,,,677.95
+"BLNE","Beeline Holdings Inc","Financial","Mortgage Finance","USA",51.74,,1.74%,7.38%,0.78,12.38%,-59.03%,1.00,1668.33
+"GLXY","Galaxy Digital Inc","Financial","Capital Markets","USA",6159.08,,58.51%,10.46%,2.16,16.13%,176.91%,1.15,9023.85
+"FTRE","Fortrea Holdings Inc","Healthcare","Biotechnology","USA",1111.39,,110.29%,10.91%,6.24,86.02%,-27.45%,3.08,1579.14
+"GXO","GXO Logistics Inc","Industrials","Integrated Freight & Logistics","USA",6158.67,70.58,100.75%,6.70%,7.29,6.89%,-8.19%,1.18,1031.54
+"TH","Target Hospitality Corp","Industrials","Specialty Business Services","USA",788.25,73.97,37.09%,8.37%,6.29,-6.51%,2.60%,2.00,426.13
+"OVV","Ovintiv Inc","Energy","Oil & Gas E&P","USA",9466.78,40.96,93.50%,2.54%,2.09,-6.32%,-6.43%,1.62,3107.02
+"SDST","Stardust Power Inc","Industrials","Electrical Equipment & Parts","USA",34.85,,2.43%,3.06%,0.67,2.62%,-94.58%,2.00,369.89
+"YMT","Yimutian Inc. ADR","Technology","Software - Application","China",165.20,,,,0.01,,,,144.46
+"BLNK","Blink Charging Co","Industrials","Engineering & Construction","USA",191.33,,18.52%,14.83%,3.37,93.06%,-16.92%,1.80,4529.87
+"EQH","Equitable Holdings Inc","Financial","Asset Management","USA",13778.68,,99.32%,2.54%,2.51,-11.50%,2.22%,1.40,3012.79
+"ZIP","ZipRecruiter Inc","Communication Services","Internet Content & Information","USA",359.80,,58.64%,8.84%,5.10,3.51%,-54.47%,2.71,1107.09
+"MCRP","Micropolis Holding Co","Technology","Software - Infrastructure","United Arab Emirates",58.27,,0.33%,3.13%,0.66,-29.24%,,,377.00
+"SU","Suncor Energy, Inc","Energy","Oil & Gas Integrated","Canada",50592.53,13.66,69.10%,0.66%,2.08,6.32%,9.25%,1.96,3862.14
+"KGC","Kinross Gold Corp","Basic Materials","Gold","Canada",29677.29,16.99,60.95%,2.27%,1.67,28.29%,144.23%,1.90,16494.95
+"CUZ","Cousins Properties Inc","Real Estate","REIT - Office","USA",4392.30,75.40,101.33%,4.49%,5.06,-2.06%,-15.15%,1.91,1477.26
+"DT","Dynatrace Inc","Technology","Software - Application","USA",14436.12,28.72,96.80%,2.55%,2.28,3.55%,-12.24%,1.55,3348.75
+"BTMD","biote Corp","Healthcare","Medical Care Facilities","USA",146.34,3.28,63.99%,2.95%,5.86,2.78%,-42.75%,1.40,152.49
+"GLOB","Globant S.A","Technology","Information Technology Services","Luxembourg",2677.97,24.73,102.98%,17.64%,4.72,-18.59%,-71.32%,1.83,1603.60
+"CTVA","Corteva Inc","Basic Materials","Agricultural Inputs","USA",43618.59,27.43,87.06%,1.10%,1.56,-9.42%,4.93%,1.65,4761.69
+"NMRK","Newmark Group Inc","Real Estate","Real Estate Services","USA",3064.10,30.21,60.53%,2.33%,2.63,6.77%,18.36%,1.33,1344.37
+"PLBY","Playboy Inc","Consumer Cyclical","Leisure","USA",147.35,,8.77%,4.88%,6.37,-20.35%,10.48%,1.67,310.39
+"SRAD","Sportradar Group AG","Technology","Software - Application","Switzerland",7318.68,70.81,52.35%,5.77%,4.81,-14.80%,91.20%,1.33,2211.28
+"PFE","Pfizer Inc","Healthcare","Drug Manufacturers - General","USA",140492.13,14.40,66.94%,2.06%,2.10,0.53%,-10.99%,2.46,55605.12
+"PRGO","Perrigo Company plc","Healthcare","Drug Manufacturers - Specialty & Generic","Ireland",2085.82,,102.11%,8.39%,5.42,-32.77%,-40.34%,2.20,2119.93
+"PPL","PPL Corp","Utilities","Utilities - Regulated Electric","USA",26992.31,24.79,84.93%,4.74%,6.32,0.41%,13.85%,1.94,5535.90
+"UTI","Universal Technical Institute Inc","Consumer Defensive","Education & Training Services","USA",1535.29,24.79,94.90%,3.67%,2.48,5.03%,70.25%,1.12,772.20
+"AMPY","Amplify Energy Corp","Energy","Oil & Gas E&P","USA",185.33,12.43,43.63%,10.74%,2.81,28.65%,-31.02%,1.00,1248.09
+"AES","AES Corp","Utilities","Utilities - Diversified","USA",10147.72,8.68,93.35%,3.67%,2.60,8.61%,-6.43%,2.44,10017.50
+"LUXE","LuxExperience B.V. ADR","Consumer Cyclical","Luxury Goods","Germany",1290.24,1.93,14.51%,,7.44,16.92%,51.86%,2.50,321.56
+"ERIC","Telefonaktiebolaget L M Ericsson ADR","Technology","Communication Equipment","Sweden",29978.23,13.17,12.64%,0.98%,2.12,29.96%,17.45%,3.04,14174.42
+"OI","O-I Glass Inc","Consumer Cyclical","Packaging & Containers","USA",2076.91,,101.12%,5.87%,5.95,0.45%,18.77%,2.18,1484.64
+"LCID","Lucid Group Inc","Consumer Cyclical","Auto Manufacturers","USA",5300.23,,16.98%,28.51%,3.62,-19.01%,-22.99%,3.29,9985.12
+"DD","DuPont de Nemours Inc","Basic Materials","Specialty Chemicals","USA",16602.11,,74.08%,1.64%,0.90,34.53%,15.82%,1.43,7627.25

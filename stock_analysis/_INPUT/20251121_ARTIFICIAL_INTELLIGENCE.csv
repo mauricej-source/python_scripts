@@ -1,0 +1,41 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"CHAI","Core AI Holdings Inc","Communication Services","Internet Content & Information","Canada",44.82,,0.11%,0.72%,0.43,-81.44%,-94.59%,3.00,331.31
+"SKIL","Skillsoft Corp","Consumer Defensive","Education & Training Services","USA",86.74,,37.33%,6.53%,4.01,-37.55%,-31.92%,2.00,72.35
+"NNDM","Nano Dimension Ltd ADR","Technology","Computer Hardware","Israel",338.46,,34.75%,4.37%,2.81,9.15%,-25.84%,1.00,3311.13
+"GAP","Gap, Inc","Consumer Cyclical","Apparel Retail","USA",9001.61,10.87,60.94%,9.03%,2.23,12.84%,15.52%,2.10,9879.85
+"WMG","Warner Music Group Corp","Communication Services","Entertainment","USA",16142.06,44.58,29.71%,4.16%,3.19,-9.11%,-5.96%,1.72,1861.86
+"BV","BrightView Holdings Inc","Industrials","Specialty Business Services","USA",1159.13,281.38,80.09%,4.20%,3.57,-16.34%,-22.53%,2.22,836.17
+"ATKR","Atkore Inc","Industrials","Electrical Equipment & Parts","USA",2024.39,,97.84%,6.56%,3.87,2.21%,-30.32%,2.33,560.57
+"ALRM","Alarm.com Holdings Inc","Technology","Software - Application","USA",2456.58,20.84,97.21%,5.07%,6.22,-14.84%,-17.59%,2.43,383.49
+"VIPS","Vipshop Holdings Ltd ADR","Consumer Cyclical","Internet Retail","China",7764.41,9.80,68.05%,1.07%,1.61,10.23%,40.99%,2.12,2748.52
+"QTRX","Quanterix Corp","Healthcare","Medical Devices","USA",283.53,,77.10%,9.24%,6.69,29.98%,-45.12%,3.00,562.04
+"SCL","Stepan Co","Basic Materials","Specialty Chemicals","USA",990.37,22.15,86.12%,1.90%,2.23,-13.38%,-41.86%,2.50,183.36
+"CPB","Campbells Co","Consumer Defensive","Packaged Foods","USA",9391.04,15.71,65.80%,16.10%,5.06,-3.00%,-27.53%,3.10,6077.37
+"AEO","American Eagle Outfitters Inc","Consumer Cyclical","Apparel Retail","USA",3041.32,17.29,99.56%,14.97%,2.28,43.68%,3.04%,3.25,10110.88
+"NAVI","Navient Corp","Financial","Credit Services","USA",1146.20,,103.22%,8.03%,9.65,-13.18%,-20.63%,3.30,789.32
+"ECPG","Encore Capital Group, Inc","Financial","Credit Services","USA",1085.52,,103.99%,5.42%,3.99,15.39%,0.10%,1.40,289.43
+"SERA","Sera Prognostics Inc","Healthcare","Medical Devices","USA",123.13,,42.77%,1.81%,7.72,20.85%,-48.37%,1.67,61.91
+"KEY","Keycorp","Financial","Banks - Regional","USA",19175.27,21.66,91.37%,3.14%,1.41,-7.75%,-7.66%,2.15,24245.69
+"ISMD","Inspire Small/Mid Cap ETF","Financial","Exchange Traded Fund","USA",,,,,0.74,-5.92%,-6.24%,,29.13
+"T","AT&T, Inc","Communication Services","Telecom Services","USA",183439.51,8.40,66.70%,1.22%,1.86,-9.97%,13.84%,1.76,46696.96
+"RERE","ATRenew Inc ADR","Consumer Cyclical","Internet Retail","China",544.66,25.57,41.18%,,1.72,-8.13%,67.68%,1.00,1714.96
+"CURB","Curbline Properties Corp","Real Estate","REIT - Retail","USA",2478.25,59.85,103.72%,3.95%,5.88,5.47%,-0.94%,1.89,644.83
+"VZ","Verizon Communications Inc","Communication Services","Telecom Services","USA",173928.82,8.79,68.39%,2.41%,4.05,-6.74%,-1.62%,2.42,25094.99
+"SKYH","Sky Harbour Group Corporation","Real Estate","Real Estate - Development","USA",646.86,,28.98%,10.80%,22.69,-20.00%,-24.73%,1.00,101.09
+"UE","Urban Edge Properties","Real Estate","REIT - Retail","USA",2488.00,21.40,97.74%,3.61%,5.38,-9.20%,-20.01%,2.14,842.05
+"NJR","New Jersey Resources Corporation","Utilities","Utilities - Regulated Gas","USA",4870.37,14.56,77.34%,2.36%,4.03,2.46%,-0.52%,1.86,583.94
+"CHWY","Chewy Inc","Consumer Cyclical","Internet Retail","USA",13868.26,94.33,52.22%,6.99%,2.06,-15.87%,1.49%,1.62,7522.31
+"TTD","Trade Desk Inc","Communication Services","Advertising Agencies","USA",18700.62,44.12,77.65%,10.25%,3.16,-26.16%,-67.62%,2.11,14163.89
+"IDYA","Ideaya Biosciences Inc","Healthcare","Biotechnology","USA",2930.69,,104.60%,9.38%,6.50,35.29%,29.27%,1.22,1208.53
+"APEI","American Public Education Inc","Consumer Defensive","Education & Training Services","USA",640.79,27.05,111.65%,6.53%,3.97,17.40%,84.93%,1.25,279.60
+"NTGR","Netgear Inc","Technology","Communication Equipment","USA",695.58,,93.32%,6.43%,3.59,-9.30%,1.32%,1.75,473.51
+"BLES","Inspire Global Hope ETF","Financial","Exchange Traded Fund","USA",,,,,0.29,-1.09%,8.41%,,10.32
+"EPD","Enterprise Products Partners L P","Energy","Oil & Gas Midstream","USA",69410.16,12.14,24.88%,2.33%,8.40,1.25%,1.44%,1.86,4011.71
+"WWJD","Inspire International ETF","Financial","Exchange Traded Fund","USA",,,,,1.30,-0.95%,16.83%,,44.61
+"CELH","Celsius Holdings Inc","Consumer Defensive","Beverages - Non-Alcoholic","USA",10151.27,433.21,63.61%,8.18%,2.41,-34.58%,44.30%,1.54,6183.31
+"FDLS","Inspire Fidelis Multi Factor ETF","Financial","Exchange Traded Fund","USA",,,,,0.78,-0.63%,1.82%,,14.56
+"CRSP","CRISPR Therapeutics AG","Healthcare","Biotechnology","Switzerland",4716.56,,71.57%,23.17%,8.59,-8.57%,5.37%,2.00,2448.19
+"RISN","Inspire Tactical Balanced ETF","Financial","Exchange Traded Fund","USA",,,,,0.02,0.21%,3.66%,,6.50
+"ARLO","Arlo Technologies Inc","Industrials","Building Products & Equipment","USA",1371.01,367.47,99.22%,10.20%,8.04,-23.87%,8.33%,1.40,1297.47
+"BIBL","Inspire 100 ETF","Financial","Exchange Traded Fund","USA",,,,,1.29,0.93%,6.15%,,39.11
+"CRSR","Corsair Gaming Inc","Technology","Computer Hardware","USA",575.51,,35.73%,6.82%,3.87,-39.33%,-18.06%,2.12,808.80

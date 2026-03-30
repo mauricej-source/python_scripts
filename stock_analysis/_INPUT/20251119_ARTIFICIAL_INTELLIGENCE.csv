@@ -1,0 +1,40 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"EPWK","EPWK Holdings Ltd","Technology","Software - Application","China",6.33,,0.36%,,0.03,-90.33%,,,1462.21
+"LZB","La-Z-Boy Inc","Consumer Cyclical","Furnishings, Fixtures & Appliances","USA",1453.79,16.27,100.50%,4.74%,3.44,1.38%,-17.55%,2.00,556.64
+"YSG","Yatsen Holding Ltd ADR","Consumer Defensive","Household & Personal Products","China",380.37,,24.80%,0.89%,1.66,-37.92%,48.63%,1.00,326.93
+"AS","Amer Sports Inc","Consumer Cyclical","Leisure","Finland",19467.66,63.26,26.55%,7.94%,2.30,-5.51%,81.84%,1.33,5363.79
+"APLD","Applied Digital Corporation","Technology","Information Technology Services","USA",6726.37,,61.44%,34.36%,2.60,52.50%,232.64%,1.08,30502.31
+"AG","First Majestic Silver Corporation","Basic Materials","Silver","Canada",6034.76,100.20,48.42%,4.96%,1.14,41.04%,93.77%,1.67,21166.17
+"LUXE","LuxExperience B.V. ADR","Consumer Cyclical","Luxury Goods","Germany",1310.15,1.96,14.73%,,9.13,17.55%,54.70%,2.50,333.49
+"GLAD","Gladstone Capital Corp","Financial","Closed-End Fund - Debt","USA",462.56,6.11,13.19%,3.14%,2.88,-21.75%,-18.60%,,235.06
+"PEW","GrabAGun Digital Holdings Inc","Industrials","Aerospace & Defense","USA",115.56,,14.25%,9.88%,3.11,-29.36%,-63.51%,1.00,798.99
+"UPWK","Upwork Inc","Communication Services","Internet Content & Information","USA",2307.40,10.09,94.93%,9.56%,3.76,19.41%,18.45%,1.73,3078.55
+"KLAR","Klarna Group plc","Technology","Software - Infrastructure","United Kingdom",12247.42,,16.28%,4.22%,1.90,,,1.58,4285.98
+"WFCF","Where Food Comes From Inc","Industrials","Specialty Business Services","USA",61.32,23.49,7.66%,0.02%,0.12,7.48%,6.81%,1.00,3.67
+"IONQ","IonQ Inc","Technology","Computer Hardware","USA",17845.06,,49.10%,14.32%,1.71,35.51%,72.86%,1.67,28747.21
+"RIOT","Riot Platforms Inc","Financial","Capital Markets","USA",5310.15,42.40,70.73%,14.82%,1.54,16.40%,15.46%,1.05,33362.90
+"BRBR","Bellring Brands Inc","Consumer Defensive","Packaged Foods","USA",3387.38,16.02,100.56%,5.79%,2.20,-32.41%,-62.70%,1.41,3278.62
+"SKIL","Skillsoft Corp","Consumer Defensive","Education & Training Services","USA",93.52,,37.33%,6.53%,4.23,-26.51%,-26.76%,2.00,68.53
+"DB","Deutsche Bank AG","Financial","Banks - Regional","Germany",66338.63,10.19,46.94%,0.50%,3.71,-5.33%,104.45%,2.68,2398.76
+"RR","Richtech Robotics Inc","Industrials","Specialty Industrial Machinery","USA",652.53,,17.24%,14.07%,0.50,65.33%,482.30%,3.00,43289.25
+"SOFI","SoFi Technologies Inc","Financial","Credit Services","USA",32102.82,48.27,53.23%,9.24%,1.48,14.11%,95.31%,2.88,74354.54
+"NN","NextNav Inc","Technology","Software - Infrastructure","USA",1739.30,,50.00%,20.89%,13.37,-10.97%,-9.28%,2.00,1412.01
+"DFIN","Donnelley Financial Solutions Inc","Technology","Software - Application","USA",1193.90,42.89,103.36%,5.69%,5.01,-17.62%,-25.51%,1.00,284.27
+"UNFI","United Natural Foods Inc","Consumer Defensive","Food Distribution","USA",2176.82,,94.47%,6.20%,3.60,33.07%,65.70%,2.50,1015.87
+"EXOD","Exodus Movement Inc","Technology","Software - Infrastructure","USA",463.49,4.21,5.09%,7.68%,2.39,-39.56%,-36.78%,1.00,118.56
+"ULBI","Ultralife Corp","Industrials","Electrical Equipment & Parts","USA",84.91,49.56,34.89%,1.15%,2.14,-23.42%,-30.71%,1.00,53.91
+"SWBI","Smith & Wesson Brands Inc","Industrials","Aerospace & Defense","USA",373.58,31.08,52.54%,6.78%,3.61,5.97%,-35.54%,1.67,811.80
+"PDYN","Palladyne AI Corp","Technology","Software - Infrastructure","USA",238.35,,26.85%,13.81%,2.20,-23.79%,206.49%,2.00,1826.78
+"GLDD","Great Lakes Dredge & Dock Corporation","Industrials","Engineering & Construction","USA",820.07,10.17,81.26%,1.50%,2.41,4.96%,1.05%,1.00,409.20
+"MGNI","Magnite Inc","Communication Services","Advertising Agencies","USA",1936.37,35.76,97.13%,10.96%,5.05,-40.14%,-14.95%,1.35,3048.54
+"JILL","J.Jill Inc","Consumer Cyclical","Apparel Retail","USA",208.47,5.73,47.11%,9.24%,8.90,-15.34%,-46.25%,1.80,70.99
+"CMG","Chipotle Mexican Grill","Consumer Cyclical","Restaurants","USA",40851.78,27.23,89.55%,2.23%,1.32,-28.00%,-47.31%,1.63,22113.73
+"AIRI","Air Industries Group","Industrials","Aerospace & Defense","USA",13.96,,4.63%,1.14%,1.01,-3.87%,-36.20%,1.00,43.65
+"NTB","Bank of N T Butterfield & Son Ltd","Financial","Banks - Diversified","Bermuda",1855.38,8.54,72.26%,0.77%,1.58,1.97%,19.22%,2.25,198.25
+"CAG","Conagra Brands Inc","Consumer Defensive","Packaged Foods","USA",8337.67,9.83,88.87%,6.48%,2.66,-9.69%,-34.72%,2.89,11576.74
+"DD","DuPont de Nemours Inc","Basic Materials","Specialty Chemicals","USA",16259.71,,75.82%,3.88%,2.13,24.46%,13.36%,1.40,7592.87
+"BUD","Anheuser-Busch InBev SA/NV ADR","Consumer Defensive","Beverages - Brewers","Belgium",106111.74,17.47,6.04%,0.52%,4.20,-2.77%,9.00%,1.36,2151.22
+"CALX","Calix Inc","Technology","Software - Infrastructure","USA",3675.36,,86.00%,3.26%,3.25,-2.93%,89.20%,1.57,603.75
+"LAKE","Lakeland Industries, Inc","Consumer Cyclical","Apparel Manufacturing","USA",139.06,,75.50%,13.33%,9.23,-2.74%,-28.81%,1.00,120.68
+"ALCO","Alico Inc","Consumer Defensive","Farm Products","USA",245.37,,58.72%,3.71%,9.30,-5.82%,26.61%,1.00,22.04
+"ZWS","Zurn Elkay Water Solutions Corp","Industrials","Pollution & Treatment Controls","USA",7558.01,40.19,93.75%,3.87%,6.27,1.67%,16.07%,2.25,910.62

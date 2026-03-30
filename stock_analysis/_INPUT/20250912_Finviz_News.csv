@@ -1,0 +1,49 @@
+"No.","Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Price","Change","Volume"
+1,"AGAE","Allied Gaming & Entertainment Inc","Communication Services","Entertainment","USA",60.07,,1.58,73.42%,108495011
+2,"AHT","Ashford Hospitality Trust Inc","Real Estate","REIT - Hotel & Motel","USA",38.18,,6.22,0.73%,24069
+3,"ANEB","Anebulo Pharmaceuticals Inc","Healthcare","Biotechnology","USA",99.84,,2.43,20.90%,918990
+4,"BGSF","BGSF Inc","Industrials","Staffing & Employment Services","USA",87.71,,7.86,22.81%,4739662
+5,"BRCB","Black Rock Coffee Bar Inc","Consumer Defensive","Beverages - Non-Alcoholic","USA",,,28.58,42.89%,6511852
+6,"CGAU","Centerra Gold Inc","Basic Materials","Gold","Canada",1887.73,27.17,9.28,1.25%,1312733
+7,"CNQ","Canadian Natural Resources Ltd","Energy","Oil & Gas E&P","Canada",65241.80,11.07,31.24,0.05%,1944128
+8,"CULP","Culp Inc","Consumer Cyclical","Textile Manufacturing","USA",59.63,,4.73,3.50%,5589
+9,"CWT","California Water Service Group","Utilities","Utilities - Regulated Water","USA",2767.84,20.29,46.46,0.18%,106430
+10,"DAKT","Daktronics Inc","Technology","Electronic Components","USA",1139.49,5336.36,23.48,5.72%,565011
+11,"DPRO","Draganfly Inc","Industrials","Aerospace & Defense","Canada",28.42,,5.23,4.07%,2139841
+12,"ENB","Enbridge Inc","Energy","Oil & Gas Midstream","Canada",106900.00,24.11,49.03,0.44%,1283634
+13,"FBNC","First Bancorp","Financial","Banks - Regional","USA",2298.14,23.61,55.43,0.36%,79563
+14,"FFIN","First Financial Bankshares, Inc","Financial","Banks - Regional","USA",5182.15,21.13,36.21,0.31%,200450
+15,"FINS","Angel Oak Financial Strategies Income Term Trust","Financial","Asset Management","USA",449.46,8.51,13.45,0.98%,58840
+16,"FITB","Fifth Third Bancorp","Financial","Banks - Regional","USA",30183.25,14.19,45.60,0.73%,2191537
+17,"FUN","Six Flags Entertainment Corp","Consumer Cyclical","Leisure","USA",2401.33,,23.71,8.96%,3632835
+18,"FUNC","First United Corp","Financial","Banks - Regional","USA",238.58,10.04,36.74,-0.01%,5828
+19,"HMN","Horace Mann Educators Corp","Financial","Insurance - Property & Casualty","USA",1942.84,14.15,47.74,0.36%,120320
+20,"HRTG","Heritage Insurance Holdings Inc","Financial","Insurance - Property & Casualty","USA",759.93,7.08,24.50,2.60%,222218
+21,"HST","Host Hotels & Resorts Inc","Real Estate","REIT - Hotel & Motel","USA",12135.13,18.69,17.65,-0.17%,5800868
+22,"IBEX","IBEX Ltd","Technology","Information Technology Services","USA",556.96,17.48,41.65,36.74%,1290084
+23,"IMPP","Imperial Petroleum Inc","Energy","Oil & Gas Midstream","Greece",157.79,3.82,4.59,12.38%,1041059
+24,"ING","ING Groep N.V. ADR","Financial","Banks - Diversified","Netherlands",72372.44,,25.35,0.92%,1183114
+25,"IONQ","IonQ Inc","Technology","Computer Hardware","USA",16422.55,,55.17,17.25%,57757195
+26,"JOBY","Joby Aviation Inc","Industrials","Airports & Air Services","USA",11910.99,,13.91,1.72%,67003067
+27,"KMI","Kinder Morgan Inc","Energy","Oil & Gas Midstream","USA",61465.32,22.70,27.66,0.33%,5496126
+28,"KMTS","Kestra Medical Technologies Ltd","Healthcare","Medical Instruments & Supplies","USA",1085.20,,21.13,14.86%,506582
+29,"LOOP","Loop Industries Inc","Basic Materials","Specialty Chemicals","Canada",91.14,,1.91,4.37%,203978
+30,"LOVE","Lovesac Company","Consumer Cyclical","Furnishings, Fixtures & Appliances","USA",257.37,28.38,17.69,0.11%,588943
+31,"MFC","Manulife Financial Corp","Financial","Insurance - Life","Canada",54174.93,14.21,31.90,0.33%,508801
+32,"MJID","Majestic Ideal Holdings Ltd","Consumer Cyclical","Textile Manufacturing","USA",,,1.22,4.27%,31733885
+33,"MPLX","MPLX LP","Energy","Oil & Gas Midstream","USA",51941.79,12.10,50.97,0.26%,1043993
+34,"MSGE","Madison Square Garden Entertainment Corp","Consumer Cyclical","Leisure","USA",2086.45,58.14,43.96,1.53%,296582
+35,"NNE","Nano Nuclear Energy Inc","Industrials","Specialty Industrial Machinery","USA",1379.02,,33.17,0.62%,1171861
+36,"OCC","Optical Cable Corp","Technology","Communication Equipment","USA",78.00,,9.48,10.75%,361479
+37,"PPL","PPL Corp","Utilities","Utilities - Regulated Electric","USA",26788.94,27.23,36.22,0.68%,1488109
+38,"PSKY","Paramount Skydance Corp","Communication Services","Entertainment","USA",19839.82,,18.64,6.73%,27948026
+39,"RGR","Sturm, Ruger & Co., Inc","Industrials","Aerospace & Defense","USA",605.02,121.07,37.44,0.74%,138064
+40,"RWT","Redwood Trust Inc","Real Estate","REIT - Mortgage","USA",807.00,,6.24,0.56%,464968
+41,"RYAN","Ryan Specialty Holdings Inc","Financial","Insurance - Specialty","USA",13647.92,2250.22,51.76,0.13%,1115126
+42,"SISI","Shineco Inc","Consumer Defensive","Farm Products","China",5.56,,6.08,0.32%,110795
+43,"SMCI","Super Micro Computer Inc","Technology","Computer Hardware","USA",26733.98,27.11,44.99,2.36%,32387797
+44,"SNAP","Snap Inc","Communication Services","Internet Content & Information","USA",12335.61,,7.30,0.14%,69862926
+45,"SOFI","SoFi Technologies Inc","Financial","Credit Services","USA",31489.77,53.58,26.57,2.33%,43907392
+46,"SPHR","Sphere Entertainment Co","Communication Services","Entertainment","USA",2090.34,,58.07,1.94%,1144372
+47,"TRNR","Interactive Strength Inc","Consumer Cyclical","Personal Services","USA",6.15,,3.53,-0.68%,530046
+48,"WBD","Warner Bros. Discovery Inc","Communication Services","Entertainment","USA",46742.58,62.52,18.88,16.76%,239747379

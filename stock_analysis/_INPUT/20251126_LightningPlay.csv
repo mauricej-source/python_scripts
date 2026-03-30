@@ -1,0 +1,197 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"RYDE","Ryde Group Ltd","Technology","Software - Application","Singapore",21.81,,0.37%,2.25%,0.26,73.33%,20.48%,1.00,2080.08
+"TRX","TRX Gold Corp","Basic Materials","Gold","Canada",199.43,542.31,2.40%,0.75%,1.01,97.31%,95.72%,1.00,2056.91
+"HBIO","Harvard Bioscience Inc","Healthcare","Medical Instruments & Supplies","USA",33.41,,36.00%,3.60%,0.22,44.06%,-66.99%,2.00,6386.68
+"KTTA","Pasithea Therapeutics Corp","Healthcare","Biotechnology","USA",7.89,,8.23%,0.33%,0.02,26.03%,-65.81%,1.00,1434.00
+"IAUX","i-80 Gold Corp","Basic Materials","Gold","USA",900.65,,39.71%,3.49%,4.35,41.89%,68.47%,,5845.37
+"LEXX","Lexaria Bioscience Corp","Healthcare","Biotechnology","Canada",24.89,,7.73%,3.13%,1.16,25.84%,-46.41%,1.00,560.10
+"GLBS","Globus Maritime Ltd","Industrials","Marine Shipping","Greece",27.58,,11.87%,2.81%,3.42,28.85%,-10.67%,1.00,124.52
+"CTXR","Citius Pharmaceuticals Inc","Healthcare","Biotechnology","USA",25.87,,11.28%,13.01%,3.02,0.00%,-58.15%,2.00,773.66
+"ALLO","Allogene Therapeutics Inc","Healthcare","Biotechnology","USA",319.11,,50.57%,11.73%,6.67,20.34%,-35.75%,1.64,2801.05
+"LAB","Standard BioTools Inc","Healthcare","Medical Devices","USA",549.93,,74.11%,3.22%,7.35,10.85%,-10.63%,2.33,1612.78
+"MIRA","Mira Pharmaceuticals Inc","Healthcare","Drug Manufacturers - General","USA",61.56,,3.33%,1.58%,0.14,5.00%,11.36%,1.00,3104.32
+"GUTS","Fractyl Health Inc","Healthcare","Biotechnology","USA",202.82,,57.62%,6.33%,2.19,49.49%,-29.19%,1.00,3257.18
+"SID","Companhia Siderurgica Nacional ADR","Basic Materials","Steel","Brazil",2135.00,,2.64%,0.33%,1.83,11.03%,-19.10%,3.58,2367.12
+"OVID","Ovid Therapeutics Inc","Healthcare","Biotechnology","USA",116.08,,40.38%,5.87%,1.25,30.40%,55.24%,1.00,2791.68
+"HLP","Hongli Group Inc","Basic Materials","Steel","China",121.18,119.57,0.15%,0.07%,0.20,129.49%,41.03%,,175.67
+"CGTX","Cognition Therapeutics Inc","Healthcare","Biotechnology","USA",145.65,,17.42%,9.15%,2.82,-33.47%,285.78%,1.00,2604.09
+"USEA","United Maritime Corp","Industrials","Marine Shipping","Greece",15.46,,1.48%,6.00%,13.42,0.00%,-18.05%,1.00,32.31
+"RDZN","Roadzen Inc","Technology","Software - Application","USA",136.22,,3.68%,1.18%,1.28,74.83%,106.73%,1.00,437.06
+"CVGI","Commercial Vehicle Group Inc","Consumer Cyclical","Auto Parts","USA",63.18,,36.43%,1.04%,2.32,-3.91%,-28.93%,1.00,127.90
+"NNDM","Nano Dimension Ltd ADR","Technology","Computer Hardware","Israel",373.12,,34.98%,4.34%,2.67,22.86%,-18.48%,1.00,3439.14
+"NAK","Northern Dynasty Minerals Ltd","Basic Materials","Other Industrial Metals & Mining","Canada",994.55,,19.34%,4.92%,1.93,98.57%,283.39%,1.00,13864.07
+"POWW","Outdoor Holding Co","Industrials","Aerospace & Defense","USA",210.80,,53.58%,4.52%,7.79,25.00%,40.62%,1.00,509.33
+"DSX","Diana Shipping Inc","Industrials","Marine Shipping","Greece",208.39,11.04,9.39%,0.72%,1.76,9.09%,-15.89%,2.00,322.72
+"PVL","Permianville Royalty Trust","Energy","Oil & Gas E&P","USA",59.73,28.28,13.83%,0.16%,0.51,-8.35%,17.42%,3.00,74.75
+"IMMP","Immutep Limited ADR","Healthcare","Biotechnology","Australia",278.19,,2.08%,3.16%,33.61,13.86%,-1.82%,1.33,137.11
+"HYFT","MindWalk Holdings Corp","Healthcare","Biotechnology","USA",88.62,,8.90%,1.48%,0.66,-22.89%,410.64%,1.00,895.62
+"ABOS","Acumen Pharmaceuticals Inc","Healthcare","Biotechnology","USA",118.12,,51.02%,2.76%,4.16,48.85%,-17.72%,1.00,316.95
+"CCO","Clear Channel Outdoor Holdings Inc","Communication Services","Advertising Agencies","USA",969.75,,64.49%,4.32%,4.47,54.76%,23.42%,3.00,3593.94
+"IRD","Opus Genetics Inc","Healthcare","Biotechnology","USA",139.31,,22.29%,0.81%,0.87,69.75%,100.00%,1.00,444.44
+"SKYX","SKYX Platforms Corp","Industrials","Electrical Equipment & Parts","USA",236.60,,13.26%,3.87%,4.01,73.33%,108.00%,1.00,671.67
+"BYSI","BeyondSpring Inc","Healthcare","Biotechnology","USA",84.30,,4.05%,6.85%,58.22,16.11%,20.11%,2.00,35.51
+"ADAG","Adagene Inc ADR","Healthcare","Biotechnology","China",99.92,,0.84%,0.11%,0.30,-4.50%,-3.35%,1.80,134.30
+"STTK","Shattuck Labs Inc","Healthcare","Biotechnology","USA",134.78,,46.75%,1.80%,1.41,114.52%,111.94%,2.20,632.99
+"RPTX","Repare Therapeutics Inc","Healthcare","Biotechnology","Canada",95.00,,37.21%,1.72%,1.20,33.13%,-21.35%,2.00,444.47
+"PALI","Palisade Bio Inc","Healthcare","Biotechnology","USA",332.28,,28.72%,5.69%,1.04,228.23%,-8.61%,1.00,7604.81
+"NFGC","New Found Gold Corp","Basic Materials","Gold","Canada",769.23,,6.76%,5.92%,5.52,30.29%,39.02%,1.00,1615.07
+"WHWK","Whitehawk Therapeutics Inc","Healthcare","Biotechnology","USA",108.40,16.94,45.39%,3.73%,0.58,29.94%,0.00%,3.00,1697.50
+"WRN","Western Copper & Gold Corp","Basic Materials","Other Industrial Metals & Mining","Canada",476.86,,26.92%,0.99%,1.56,66.20%,107.93%,1.00,1045.62
+"JWEL","Jowell Global Ltd","Consumer Cyclical","Internet Retail","China",5.14,,0.97%,1.92%,0.14,19.94%,21.54%,,248.42
+"EDAP","EDAP TMS S.A. ADR","Healthcare","Medical Distribution","France",90.67,,36.74%,0.09%,0.37,33.24%,-1.82%,2.33,92.36
+"DTI","Drilling Tools International Corporation","Energy","Oil & Gas Equipment & Services","USA",86.23,,10.17%,0.63%,1.38,25.64%,-30.79%,3.00,74.28
+"WALD","Waldencast plc","Consumer Defensive","Household & Personal Products","USA",321.97,,18.17%,4.16%,5.96,66.46%,-20.78%,2.00,125.91
+"CCCC","C4 Therapeutics Inc","Healthcare","Biotechnology","USA",259.73,,57.44%,6.25%,2.50,5.10%,-36.94%,1.14,1942.32
+"TII","Titan Mining Corp","Basic Materials","Other Industrial Metals & Mining","Canada",246.11,19.74,4.01%,,,86.68%,1108.45%,,55.01
+"AP","Ampco-Pittsburgh Corp","Industrials","Metal Fabrication","USA",54.68,,46.51%,0.61%,1.11,-4.61%,55.49%,1.00,84.49
+"AEI","Alset Inc","Real Estate","Real Estate - Development","USA",106.61,,6.15%,8.05%,0.57,85.14%,153.70%,,566.69
+"EVC","Entravision Communications Corp","Communication Services","Advertising Agencies","USA",257.47,,52.48%,1.19%,1.76,10.55%,13.20%,1.00,430.40
+"ACRS","Aclaris Therapeutics Inc","Healthcare","Biotechnology","USA",312.03,,67.19%,4.22%,3.25,56.52%,-24.21%,1.29,1200.19
+"FOSL","Fossil Group Inc","Consumer Cyclical","Footwear & Accessories","USA",166.65,,51.95%,10.94%,5.28,0.99%,160.68%,1.00,998.28
+"PXS","Pyxis Tankers Inc","Energy","Oil & Gas Midstream","Greece",32.09,,1.21%,0.33%,0.70,12.29%,-25.00%,1.00,20.82
+"BWEN","Broadwind Inc","Industrials","Specialty Industrial Machinery","USA",71.23,13.97,26.47%,0.32%,0.25,44.81%,78.49%,1.00,254.32
+"BOF","BranchOut Food Inc","Consumer Defensive","Packaged Foods","USA",38.15,,4.79%,0.78%,0.06,44.39%,73.60%,,1203.12
+"GANX","Gain Therapeutics Inc","Healthcare","Biotechnology","USA",113.34,,12.03%,5.12%,2.03,67.02%,82.56%,1.00,879.21
+"GRCE","Grace Therapeutics Inc","Healthcare","Biotechnology","USA",49.67,,23.95%,0.25%,0.36,7.36%,-2.13%,1.00,75.20
+"ZKH","ZKH Group Ltd ADR","Consumer Cyclical","Internet Retail","China",425.98,,13.03%,0.03%,0.59,13.15%,-11.62%,1.00,52.82
+"LPCN","Lipocine Inc","Healthcare","Biotechnology","USA",18.21,,9.53%,2.13%,2.74,10.07%,-36.31%,1.00,41.88
+"ITRG","Integra Resources Corp","Basic Materials","Other Precious Metals & Mining","Canada",557.03,39.88,44.56%,0.92%,0.64,52.31%,253.46%,1.17,2294.81
+"BRFH","Barfresh Food Group Inc","Consumer Defensive","Beverages - Non-Alcoholic","USA",53.66,,15.29%,0.47%,0.35,12.00%,12.00%,1.00,69.99
+"CMTG","Claros Mortgage Trust Inc","Real Estate","REIT - Mortgage","USA",471.13,,51.61%,2.49%,5.74,-6.15%,-48.15%,3.33,493.17
+"ODV","Osisko Development Corp","Basic Materials","Gold","Canada",864.59,,27.22%,5.91%,7.84,21.94%,84.24%,,1577.64
+"SAVA","Cassava Sciences Inc","Healthcare","Biotechnology","USA",163.77,,28.55%,17.56%,2.76,42.44%,-87.20%,1.00,2653.01
+"WOOF","Petco Health and Wellness Co Inc","Consumer Cyclical","Specialty Retail","USA",952.88,,54.98%,13.44%,5.88,5.26%,-18.47%,3.08,3148.06
+"TALK","Talkspace Inc","Healthcare","Health Information Services","USA",564.89,139.75,49.50%,4.95%,4.98,28.20%,-1.16%,1.00,1384.44
+"BAOS","Baosheng Media Group Holdings Ltd","Communication Services","Advertising Agencies","China",5.28,,1.03%,3.76%,0.03,24.19%,86.25%,,1069.04
+"ARTV","Artiva Biotherapeutics Inc","Healthcare","Biotechnology","USA",87.87,,53.14%,1.72%,0.10,13.29%,-68.04%,1.00,2110.11
+"GGB","Gerdau S.A. ADR","Basic Materials","Steel","Brazil",4503.51,13.63,25.25%,1.68%,1.21,16.94%,5.90%,1.31,17419.30
+"LODE","Comstock Inc","Basic Materials","Other Precious Metals & Mining","USA",185.58,,29.53%,3.24%,1.27,53.39%,-4.23%,2.00,1279.82
+"BBD","Banco Bradesco S.A. ADR","Financial","Banks - Regional","Brazil",19432.76,10.39,20.88%,1.07%,1.19,18.33%,62.64%,2.33,47481.00
+"ACTG","Acacia Research Corp","Industrials","Business Equipment & Supplies","USA",356.90,74.45,87.15%,1.56%,7.98,12.80%,-18.86%,1.00,186.42
+"PYPD","Polypid Ltd","Healthcare","Biotechnology","Israel",60.41,,20.82%,0.66%,0.84,12.43%,7.19%,1.00,69.35
+"TE","T1 Energy Inc","Industrials","Electrical Equipment & Parts","USA",815.48,,40.93%,7.83%,1.58,134.15%,56.73%,1.00,7853.43
+"AGRZ","Agroz Inc","Consumer Defensive","Farm Products","Malaysia",83.43,,,0.03%,0.01,,,,232.93
+"AXG","Solowin Holdings","Financial","Capital Markets","Hong Kong",724.46,,0.08%,3.30%,1.32,-3.01%,55.42%,,1143.48
+"SINT","SINTX Technologies Inc","Healthcare","Medical Devices","USA",14.97,,13.45%,7.09%,0.26,-8.37%,-21.67%,1.00,843.49
+"ESGL","ESGL Holdings Ltd","Industrials","Waste Management","Singapore",162.66,,0.12%,0.15%,1.45,45.69%,107.07%,,16.84
+"MI","NFT Ltd","Consumer Cyclical","Internet Retail","Hong Kong",19.78,,0.30%,0.18%,0.33,22.92%,22.80%,,24.32
+"TORO","Toro Corp","Energy","Oil & Gas Midstream","Cyprus",74.66,,1.29%,0.07%,0.08,42.70%,109.03%,,88.00
+"GROY","Gold Royalty Corp","Basic Materials","Gold","Canada",692.24,,23.23%,4.21%,1.60,21.34%,210.94%,1.14,3344.82
+"VFF","Village Farms International Inc","Consumer Defensive","Farm Products","USA",462.07,21.82,20.74%,4.90%,1.83,26.98%,423.01%,1.25,2756.17
+"APYX","Apyx Medical Corp","Healthcare","Medical Devices","USA",164.47,,38.37%,0.80%,2.41,98.51%,177.51%,1.50,116.12
+"PSIG","PS International Group Ltd","Industrials","Integrated Freight & Logistics","Hong Kong",13.48,,0.40%,0.18%,0.13,26.40%,-4.32%,,37.41
+"CALC","CalciMedica Inc","Healthcare","Biotechnology","USA",59.08,,18.86%,0.81%,0.77,50.18%,18.84%,1.00,68.57
+"TBLA","Taboola.com Ltd","Communication Services","Internet Content & Information","USA",1181.72,56.40,19.33%,3.93%,2.93,22.39%,16.15%,1.86,1749.03
+"DNUT","Krispy Kreme Inc","Consumer Defensive","Grocery Stores","USA",704.04,,54.01%,31.07%,3.39,15.29%,-63.14%,3.00,7897.24
+"SLI","Standard Lithium Ltd","Basic Materials","Other Industrial Metals & Mining","Canada",981.71,7.95,9.37%,2.24%,0.97,40.14%,138.15%,1.25,4879.94
+"CTMX","CytomX Therapeutics Inc","Healthcare","Biotechnology","USA",715.02,10.09,65.28%,22.93%,8.29,105.85%,374.16%,1.38,3536.55
+"USAS","Americas Gold and Silver Corp","Basic Materials","Other Industrial Metals & Mining","Canada",1165.66,,32.75%,1.71%,1.28,65.76%,349.49%,1.00,2808.11
+"KORE","Kore Group Holdings Inc","Communication Services","Telecom Services","USA",74.72,,26.84%,6.25%,2.12,70.40%,130.27%,2.00,97.76
+"RIG","Transocean Ltd","Energy","Oil & Gas Drilling","Switzerland",4736.20,,69.73%,13.16%,2.65,38.71%,-3.80%,2.50,47140.45
+"BRBS","Blue Ridge Bankshares Inc (VA)","Financial","Banks - Regional","USA",395.23,106.40,34.61%,3.49%,6.50,14.71%,28.60%,,339.67
+"RYOJ","rYojbaba Co. Ltd","Industrials","Consulting Services","Japan",48.83,5425.00,1.52%,0.89%,0.02,84.68%,,,1166.70
+"DBI","Designer Brands Inc","Consumer Cyclical","Footwear & Accessories","USA",216.01,,71.74%,23.54%,9.48,15.96%,-13.49%,3.00,854.78
+"RERE","ATRenew Inc ADR","Consumer Cyclical","Internet Retail","China",590.22,27.71,41.18%,,1.98,-4.28%,57.95%,1.00,1599.02
+"DC","Dakota Gold Corp","Basic Materials","Gold","USA",508.55,,41.19%,3.60%,2.81,8.45%,100.45%,1.00,1093.50
+"BGSF","BGSF Inc","Industrials","Staffing & Employment Services","USA",50.40,,25.88%,2.83%,0.99,2.70%,9.33%,1.00,297.58
+"AGEN","Agenus Inc","Healthcare","Biotechnology","USA",154.74,,22.94%,5.55%,3.86,7.06%,36.23%,1.67,463.18
+"VOXR","Vox Royalty Corp","Basic Materials","Other Precious Metals & Mining","Canada",315.41,,53.59%,1.06%,1.14,32.38%,66.19%,1.00,558.81
+"POCI","Precision Optics Corp., Inc","Healthcare","Medical Instruments & Supplies","USA",35.80,,22.48%,0.60%,1.24,-5.31%,-13.27%,,20.70
+"ANIX","Anixa Biosciences Inc","Healthcare","Biotechnology","USA",152.73,,16.59%,2.07%,3.42,54.15%,45.00%,1.00,188.27
+"JFU","9F Inc ADR","Technology","Information Technology Services","China",41.07,1.57,0.15%,,0.17,97.90%,201.92%,3.00,50.72
+"ARKO","ARKO Corp","Consumer Cyclical","Specialty Retail","USA",530.41,42.46,66.66%,5.27%,7.80,-4.42%,-32.10%,2.00,493.19
+"ACHV","Achieve Life Sciences Inc","Healthcare","Biotechnology","Canada",257.65,,40.04%,13.62%,4.54,53.16%,12.82%,1.00,1391.95
+"TSHA","Taysha Gene Therapies Inc","Healthcare","Biotechnology","USA",1331.25,,89.57%,21.44%,7.66,71.73%,96.76%,1.08,6280.26
+"DHC","Diversified Healthcare Trust","Real Estate","REIT - Healthcare Facilities","USA",1179.26,,76.38%,2.60%,6.73,29.18%,102.07%,2.33,841.07
+"SOPH","SOPHiA Genetics SA","Healthcare","Health Information Services","Switzerland",333.17,,26.15%,0.09%,0.47,48.94%,54.06%,1.00,103.13
+"RENT","Rent the Runway Inc","Consumer Cyclical","Apparel Retail","USA",35.48,,14.07%,33.17%,4.26,-2.41%,-42.67%,3.00,117.46
+"LTRX","Lantronix Inc","Technology","Communication Equipment","USA",194.83,,31.91%,0.73%,0.49,6.45%,73.08%,1.00,449.11
+"CSAN","Cosan S.A ADR","Energy","Oil & Gas Refining & Marketing","Brazil",4919.31,,1.47%,1.12%,4.90,17.77%,-34.61%,2.43,2254.80
+"TDAY","USA TODAY Co Inc","Communication Services","Publishing","USA",738.49,9.71,77.41%,14.54%,9.99,22.44%,-6.69%,2.50,1856.74
+"TGB","Taseko Mines Ltd","Basic Materials","Copper","Canada",1816.47,,37.15%,2.07%,1.41,57.99%,142.31%,1.25,5196.22
+"GGN","GAMCO Global Gold Natural Resources & Income Trust","Financial","Closed-End Fund - Equity","USA",789.66,5.75,12.84%,0.02%,0.05,7.66%,20.19%,,639.42
+"NUAI","New Era Energy & Digital Inc","Technology","Software - Infrastructure","USA",270.99,,3.82%,12.72%,0.21,905.15%,-56.01%,,27459.79
+"ASM","Avino Silver & Gold Mines Ltd","Basic Materials","Other Precious Metals & Mining","Canada",764.34,35.10,31.53%,7.20%,1.92,17.24%,343.48%,1.50,5301.46
+"VNDA","Vanda Pharmaceuticals Inc","Healthcare","Biotechnology","USA",313.21,,77.00%,7.05%,6.02,12.77%,4.13%,1.50,644.64
+"LFS","Leifras Co Ltd ADR","Communication Services","Entertainment","Japan",139.17,48.54,,,0.04,,,,3219.84
+"SLDB","Solid Biosciences Inc","Healthcare","Biotechnology","USA",417.60,,82.77%,16.21%,8.56,-4.63%,-0.92%,1.08,1115.66
+"MNKD","Mannkind Corp","Healthcare","Biotechnology","USA",1652.04,57.05,57.29%,7.36%,4.56,19.82%,-21.35%,1.00,4805.38
+"ORGO","Organogenesis Holdings Inc","Healthcare","Drug Manufacturers - Specialty & Generic","USA",687.87,,54.12%,18.20%,7.32,5.86%,33.83%,1.00,1486.72
+"NPT","Texxon Holding Ltd","Consumer Cyclical","Specialty Retail","China",121.32,,,0.03%,0.03,,,,178.82
+"LAR","Lithium Argentina AG","Basic Materials","Other Industrial Metals & Mining","Switzerland",889.40,,21.86%,7.41%,2.53,59.77%,63.58%,1.82,3513.98
+"CVAC","CureVac N.V","Healthcare","Biotechnology","Germany",1234.00,5.77,8.93%,1.00%,1.71,2.05%,106.02%,3.00,559.66
+"JL","J-Long Group Ltd","Consumer Cyclical","Apparel Manufacturing","Hong Kong",20.68,52.91,0.48%,0.74%,0.27,-6.33%,121.85%,,45.27
+"ALDX","Aldeyra Therapeutics Inc","Healthcare","Biotechnology","USA",336.31,,65.77%,9.56%,7.83,-4.61%,15.26%,1.00,710.55
+"BRSP","BrightSpire Capital Inc","Real Estate","REIT - Mortgage","USA",731.69,,70.14%,2.86%,5.29,-1.23%,-9.47%,2.50,684.45
+"CV","CapsoVision Inc","Healthcare","Medical Devices","USA",267.01,,0.87%,0.13%,1.03,45.04%,,1.00,36.62
+"GALT","Galectin Therapeutics Inc","Healthcare","Biotechnology","USA",371.40,,15.94%,14.82%,19.59,35.53%,107.19%,1.00,344.94
+"UWMC","UWM Holdings Corporation","Financial","Mortgage Finance","USA",9231.34,,70.26%,14.99%,3.48,3.41%,-6.18%,2.67,9297.45
+"JRVR","James River Group Holdings Ltd","Financial","Insurance - Specialty","USA",270.73,,61.47%,2.71%,4.07,4.80%,32.36%,1.80,243.17
+"ARDX","Ardelyx Inc","Healthcare","Biotechnology","USA",1440.83,,66.86%,7.96%,5.30,-7.05%,11.68%,1.18,3503.43
+"OSS","One Stop Systems Inc","Technology","Computer Hardware","USA",145.87,,43.36%,0.67%,0.21,-6.00%,155.36%,1.00,667.86
+"CIA","Citizens, Inc","Financial","Insurance - Life","USA",300.27,27.95,26.06%,9.32%,32.76,10.76%,19.40%,1.00,127.00
+"PEPG","PepGen Inc","Healthcare","Biotechnology","USA",418.68,,78.21%,3.71%,0.64,399.18%,38.10%,1.50,3427.86
+"AQN","Algonquin Power & Utilities Corp","Utilities","Utilities - Diversified","Canada",4858.27,,68.61%,1.22%,1.92,5.86%,29.26%,2.64,4854.91
+"AQST","Aquestive Therapeutics Inc","Healthcare","Drug Manufacturers - Specialty & Generic","USA",758.86,,51.38%,16.81%,5.81,62.40%,36.40%,1.10,3305.57
+"EPRX","Eupraxia Pharmaceuticals Inc","Healthcare","Biotechnology","Canada",315.55,,32.14%,0.65%,1.95,18.22%,78.51%,1.00,129.47
+"RLGT","Radiant Logistics, Inc","Industrials","Integrated Freight & Logistics","USA",294.44,20.16,54.25%,1.87%,3.24,-2.48%,-16.71%,1.00,206.00
+"AURA","Aura Biosciences Inc","Healthcare","Biotechnology","USA",405.15,,68.84%,6.21%,11.45,-0.78%,-28.72%,1.00,255.25
+"COYA","Coya Therapeutics Inc","Healthcare","Biotechnology","USA",133.50,,22.67%,1.96%,2.19,-4.92%,-1.85%,1.00,177.38
+"CTOS","Custom Truck One Source Inc","Industrials","Rental & Leasing Services","USA",1465.84,,26.01%,4.83%,3.64,5.89%,13.11%,2.00,793.48
+"DWTX","Dogwood Therapeutics Inc","Healthcare","Biotechnology","USA",14.96,,1.70%,5.47%,0.12,35.97%,155.69%,1.00,732.54
+"AXL","American Axle & Manufacturing Holdings Inc","Consumer Cyclical","Auto Parts","USA",775.09,19.39,138.60%,24.23%,7.65,9.38%,0.15%,2.62,3516.99
+"NEXA","Nexa Resources S.A","Basic Materials","Other Industrial Metals & Mining","Luxembourg",893.96,,1.19%,0.38%,1.40,38.32%,-9.32%,3.38,118.74
+"FGI","FGI Industries Ltd","Consumer Cyclical","Furnishings, Fixtures & Appliances","USA",13.02,,0.66%,11.21%,0.06,62.70%,64.36%,1.00,953.39
+"SLN","Silence Therapeutics Plc ADR","Healthcare","Biotechnology","United Kingdom",323.05,,21.83%,2.09%,6.53,34.12%,-2.43%,1.67,141.23
+"IHS","IHS Holding Ltd","Real Estate","Real Estate Services","United Kingdom",2290.74,4.93,25.37%,0.20%,0.63,-5.37%,132.09%,2.00,521.58
+"KRNY","Kearny Financial Corp","Financial","Banks - Regional","USA",446.06,14.67,64.81%,1.36%,2.01,4.71%,-16.69%,2.00,388.13
+"AGCC","Agencia Comercial Spirits Ltd","Consumer Defensive","Beverages - Wineries & Distilleries","Taiwan",244.57,,,0.22%,0.18,,,,247.31
+"SVM","Silvercorp Metals Inc","Basic Materials","Silver","Canada",1586.23,63.72,47.34%,8.91%,3.02,55.17%,110.53%,1.17,6234.04
+"GNT","GAMCO Natural Resources, Gold & Income Trust","Financial","Closed-End Fund - Equity","USA",116.95,5.27,31.37%,0.18%,0.28,7.92%,24.05%,,105.84
+"VLRS","Controladora Vuela Cia De Aviacion ADR","Industrials","Airlines","Mexico",831.88,,19.56%,3.24%,5.83,17.34%,-6.82%,1.73,523.14
+"MTA","Metalla Royalty and Streaming Ltd","Basic Materials","Other Precious Metals & Mining","Canada",671.99,,22.39%,0.99%,0.93,39.88%,131.95%,1.40,782.16
+"LION","Lionsgate Studios Corp","Financial","Shell Companies","Canada",2123.72,,62.74%,6.51%,5.51,15.07%,2.32%,1.60,2324.83
+"TAOX","TAO Synergies Inc","Technology","Software - Infrastructure","USA",53.25,,5.38%,2.68%,0.51,14.13%,181.78%,1.00,358.95
+"IMRX","Immuneering Corp","Healthcare","Biotechnology","USA",484.92,,41.88%,16.08%,4.04,34.11%,257.62%,1.00,1900.08
+"KODK","Eastman Kodak Co","Industrials","Specialty Business Services","USA",734.57,,38.65%,10.93%,5.10,31.61%,44.59%,,1321.85
+"NMR","Nomura Holdings Inc. ADR","Financial","Capital Markets","Japan",22412.78,9.40,2.41%,0.05%,2.26,4.51%,26.49%,2.43,622.87
+"LNKB","Linkbancorp Inc","Financial","Banks - Regional","USA",287.29,7.49,33.93%,0.87%,2.29,4.21%,1.19%,2.00,91.56
+"TH","Target Hospitality Corp","Industrials","Specialty Business Services","USA",766.30,,36.28%,8.72%,6.52,-14.95%,-11.83%,2.00,434.58
+"SLSR","Solaris Resources Inc","Basic Materials","Other Precious Metals & Mining","Canada",1286.80,,32.57%,1.10%,14.11,39.17%,135.06%,1.00,70.82
+"TTI","Tetra Technologies, Inc","Industrials","Conglomerates","USA",1045.90,8.51,79.72%,5.08%,2.71,64.63%,93.56%,1.00,2362.79
+"NGD","New Gold Inc","Basic Materials","Gold","Canada",6206.93,25.10,58.64%,2.32%,0.86,38.03%,177.03%,2.14,20409.32
+"MLCI","Mount Logan Capital Inc","Financial","Asset Management","USA",224.77,,6.18%,0.07%,0.53,,,1.00,39.41
+"STHO","Star Holdings","Real Estate","Real Estate Services","USA",100.23,,69.56%,0.76%,2.06,-7.95%,-29.79%,,44.98
+"GPRK","Geopark Limited","Energy","Oil & Gas E&P","Colombia",413.55,12.42,37.95%,4.53%,1.05,24.19%,-10.34%,1.40,1324.17
+"PLCE","Childrens Place Inc","Consumer Cyclical","Apparel Manufacturing","USA",178.90,,16.98%,34.37%,3.54,69.54%,-49.88%,3.00,688.60
+"GNL","Global Net Lease Inc","Real Estate","REIT - Diversified","USA",1802.09,,71.09%,3.56%,5.32,5.79%,11.68%,2.00,1309.61
+"ENGN","enGene Holdings Inc","Healthcare","Biotechnology","Canada",532.77,,39.92%,4.43%,0.96,73.68%,7.42%,1.20,1235.15
+"FUND","Sprott Focus Trust Inc","Financial","Closed-End Fund - Equity","USA",249.97,19.16,64.23%,0.06%,0.36,2.74%,4.98%,,23.85
+"TRT","Trio-Tech International","Technology","Semiconductor Equipment & Materials","USA",36.98,143.58,30.58%,0.77%,0.98,57.49%,24.82%,,21.00
+"OCC","Optical Cable Corp","Technology","Communication Equipment","USA",75.49,,18.72%,0.34%,0.21,22.45%,255.75%,,92.15
+"EXK","Endeavour Silver Corp","Basic Materials","Silver","Canada",2535.83,,48.33%,6.81%,1.41,46.35%,93.27%,1.11,14206.45
+"LILA","Liberty Latin America Ltd","Communication Services","Telecom Services","USA",1759.62,,14.60%,1.88%,1.88,8.18%,22.78%,2.00,327.02
+"PDM","Piedmont Realty Trust Inc","Real Estate","REIT - Office","USA",1092.03,,90.08%,2.40%,3.68,5.16%,-6.30%,2.33,801.47
+"LILAK","Liberty Latin America Ltd","Communication Services","Telecom Services","USA",1765.59,,54.07%,4.52%,6.31,6.40%,25.14%,1.80,924.18
+"RETL","Direxion Daily Retail Bull 3x Shares","Financial","Exchange Traded Fund","USA",,,,,0.57,-9.92%,-13.81%,,369.49
+"PASG","Passage Bio Inc","Healthcare","Biotechnology","USA",28.05,,48.15%,3.04%,2.36,30.29%,-10.99%,1.00,38.17
+"EHAB","Enhabit Inc","Healthcare","Medical Care Facilities","USA",456.98,,92.59%,3.86%,4.22,14.02%,19.44%,2.60,403.91
+"CRVS","Corvus Pharmaceuticals Inc","Healthcare","Biotechnology","USA",677.37,,37.72%,17.29%,10.84,67.65%,1.34%,1.14,913.67
+"ECVT","Ecovyst Inc","Basic Materials","Specialty Chemicals","USA",1040.99,,103.84%,4.64%,3.98,0.22%,11.48%,1.50,1309.82
+"FTCI","FTC Solar Inc","Technology","Solar","USA",137.30,,4.91%,10.06%,6.25,39.45%,127.53%,1.00,168.08
+"AVAH","Aveanna Healthcare Holdings Inc","Healthcare","Medical Care Facilities","USA",1936.61,25.75,25.74%,6.46%,3.11,18.24%,58.73%,2.22,1431.87
+"LUXE","LuxExperience B.V. ADR","Consumer Cyclical","Luxury Goods","Germany",1286.13,2.15,14.73%,,9.16,8.32%,33.86%,2.50,357.02
+"SHO","Sunstone Hotel Investors Inc","Real Estate","REIT - Hotel & Motel","USA",1783.20,1020.65,101.10%,6.83%,6.82,-1.16%,-9.45%,2.55,1875.94
+"NG","Novagold Resources Inc","Basic Materials","Gold","USA",3910.60,,65.31%,4.29%,3.43,48.76%,163.29%,1.00,3809.93
+"OMER","Omeros Corporation","Healthcare","Biotechnology","USA",682.77,,46.47%,19.61%,3.92,127.66%,-11.73%,1.80,3405.59
+"MTEX","Mannatech Inc","Consumer Defensive","Food Distribution","USA",18.44,,11.64%,2.13%,0.67,6.59%,21.25%,,30.50
+"FIGS","Figs Inc","Consumer Cyclical","Apparel Manufacturing","USA",1600.57,97.99,88.57%,7.09%,5.02,35.89%,106.14%,2.90,2093.06
+"AFRI","Forafric Global PLC","Consumer Defensive","Farm Products","United Kingdom",262.29,,1.99%,4.08%,26.80,12.59%,-5.80%,,8.30
+"FSM","Fortuna Mining Corp","Basic Materials","Gold","Canada",2995.93,13.19,75.16%,7.24%,1.29,31.01%,96.38%,2.00,17105.44
+"KW","Kennedy-Wilson Holdings Inc","Real Estate","Real Estate Services","USA",1351.46,,85.04%,3.86%,3.55,11.49%,-11.15%,3.00,964.47
+"DUOT","Duos Technologies Group Inc","Technology","Software - Application","USA",200.07,,39.20%,7.38%,4.04,51.94%,113.97%,1.00,318.63
+"NGL","NGL Energy Partners LP","Energy","Oil & Gas Midstream","USA",1238.36,,46.34%,3.87%,8.36,83.77%,121.85%,2.00,465.54
+"ALGS","Aligos Therapeutics Inc","Healthcare","Biotechnology","USA",60.67,,43.09%,4.96%,2.78,-10.85%,-50.80%,1.00,83.94
+"ORN","Orion Group Holdings Inc","Industrials","Engineering & Construction","USA",395.02,41.03,83.06%,5.16%,5.44,29.92%,15.79%,1.00,356.98
+"PERI","Perion Network Ltd","Communication Services","Internet Content & Information","Israel",447.67,,51.08%,1.31%,1.92,6.88%,16.67%,2.00,295.48
+"MFIN","Medallion Financial Corp","Financial","Credit Services","USA",232.09,5.84,31.94%,6.28%,21.75,-5.68%,4.29%,2.00,41.40

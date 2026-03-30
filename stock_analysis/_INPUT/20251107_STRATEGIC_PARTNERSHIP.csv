@@ -1,0 +1,57 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"SWKH","Swk Holdings Corp","Financial","Asset Management","USA",240.16,13.96,87.30%,0.53%,2.14,34.72%,48.69%,3.00,28.57
+"LASR","nLIGHT Inc","Technology","Semiconductors","USA",1745.97,,87.78%,4.96%,2.64,32.14%,181.27%,1.29,863.43
+"TNDM","Tandem Diabetes Care Inc","Healthcare","Medical Devices","USA",1044.62,,117.67%,13.81%,4.36,52.84%,-53.31%,2.40,2116.86
+"FIGS","Figs Inc","Consumer Cyclical","Apparel Manufacturing","USA",1417.34,211.73,88.43%,6.71%,5.13,38.45%,37.35%,2.91,1929.01
+"KODK","Eastman Kodak Co","Industrials","Specialty Business Services","USA",536.31,,45.81%,13.54%,5.06,-2.36%,31.87%,,1381.33
+"NHTC","Natural Health Trends Corp","Consumer Cyclical","Internet Retail","Hong Kong",32.81,,15.75%,0.46%,0.89,-42.42%,-52.66%,,39.00
+"QNST","QuinStreet Inc","Communication Services","Advertising Agencies","USA",890.42,197.70,91.00%,2.95%,2.74,6.82%,-27.30%,1.40,566.43
+"PGNY","Progyny Inc","Healthcare","Healthcare Plans","USA",1696.43,33.50,93.62%,9.13%,4.94,-9.29%,24.95%,2.00,1327.67
+"PAR","Par Technology Corp","Technology","Software - Application","USA",1470.25,,113.10%,17.47%,7.19,-22.42%,-42.08%,1.20,965.41
+"GCT","GigaCloud Technology Inc","Technology","Software - Infrastructure","USA",1045.24,8.35,31.81%,13.37%,3.32,-8.20%,20.97%,1.50,1017.89
+"GRND","Grindr Inc","Technology","Software - Application","USA",2841.27,,22.01%,30.22%,4.45,-12.63%,6.25%,1.40,2607.26
+"NWSA","News Corp","Communication Services","Entertainment","USA",15932.15,33.17,73.55%,2.99%,2.86,-4.90%,-3.09%,1.78,3935.00
+"AMPX","Amprius Technologies Inc","Industrials","Electrical Equipment & Parts","USA",1512.16,,33.59%,15.92%,1.93,57.22%,844.53%,1.00,8745.01
+"PDFS","PDF Solutions Inc","Technology","Software - Application","USA",1145.29,1330.28,74.69%,4.35%,4.58,52.87%,-1.66%,1.50,299.48
+"FTHM","Fathom Holdings Inc","Real Estate","Real Estate Services","USA",38.78,,9.74%,3.47%,0.62,-9.24%,-51.21%,1.00,733.37
+"MT","ArcelorMittal","Basic Materials","Steel","Luxembourg",30001.33,12.04,3.97%,0.29%,1.54,19.47%,56.67%,2.17,1416.05
+"SVC","Service Properties Trust","Real Estate","REIT - Hotel & Motel","USA",358.03,,74.31%,3.14%,3.67,-8.19%,-28.04%,3.00,1298.26
+"ALLO","Allogene Therapeutics Inc","Healthcare","Biotechnology","USA",241.83,,60.77%,12.68%,6.00,5.82%,-63.55%,1.69,3250.41
+"ATNI","ATN International Inc","Communication Services","Telecom Services","USA",268.83,,60.93%,1.45%,3.94,17.23%,-10.83%,1.00,36.06
+"UPLD","Upland Software Inc","Technology","Software - Application","USA",54.67,,50.18%,2.12%,1.16,2.70%,-15.93%,1.00,375.72
+"KNTK","Kinetik Holdings Inc","Energy","Oil & Gas Midstream","USA",5631.24,87.24,79.24%,15.72%,4.75,-13.02%,-29.19%,1.62,1329.81
+"NWS","News Corp","Communication Services","Entertainment","USA",15272.52,36.10,13.27%,6.74%,6.03,-10.63%,-1.38%,2.00,1284.19
+"BLMN","Bloomin Brands Inc","Consumer Cyclical","Restaurants","USA",561.45,,108.34%,11.27%,3.97,2.01%,-58.04%,3.08,2359.08
+"AORT","Artivion Inc","Healthcare","Medical Devices","USA",2311.05,,88.16%,2.93%,2.81,14.01%,75.62%,1.29,467.95
+"UIS","Unisys Corp","Technology","Information Technology Services","USA",196.77,,81.35%,2.14%,1.99,-25.20%,-62.85%,1.67,710.48
+"KRUS","Kura Sushi USA Inc","Consumer Cyclical","Restaurants","USA",679.07,,80.44%,23.44%,5.61,-28.06%,-43.85%,2.00,265.00
+"BLZE","Backblaze Inc","Technology","Software - Infrastructure","USA",357.65,,44.62%,2.37%,1.70,-14.11%,-16.05%,1.12,735.83
+"GLPG","Galapagos NV ADR","Healthcare","Biotechnology","Belgium",2100.23,,24.03%,3.26%,7.23,1.17%,19.18%,3.17,221.78
+"RAL","Ralliant Corp","Technology","Electronic Components","USA",5386.68,,96.01%,1.12%,1.10,6.79%,,2.45,1139.72
+"GEN","Gen Digital Inc","Technology","Software - Infrastructure","USA",15957.72,27.05,90.04%,2.84%,4.19,-15.79%,-9.18%,2.29,3769.62
+"CHMI","Cherry Hill Mortgage Investment Corporation","Real Estate","REIT - Mortgage","USA",84.70,,16.22%,1.67%,1.95,-17.25%,-27.69%,1.00,304.72
+"CURI","CuriosityStream Inc","Communication Services","Broadcasting","USA",222.45,,21.61%,5.80%,3.86,-7.25%,62.53%,1.00,581.36
+"RWAY","Runway Growth Finance Corp","Financial","Asset Management","USA",356.73,5.16,56.87%,5.18%,7.23,-9.88%,-0.66%,2.27,255.66
+"CION","CION Invt Corp","Financial","Asset Management","USA",515.66,,38.14%,1.47%,2.61,-8.16%,-14.35%,3.00,290.59
+"EQX","Equinox Gold Corp","Basic Materials","Gold","Canada",9045.43,220.38,60.17%,4.45%,2.03,73.98%,115.46%,1.00,16116.81
+"BEN","Franklin Resources, Inc","Financial","Asset Management","USA",12227.06,45.16,50.10%,7.71%,5.30,-6.88%,12.41%,3.23,4045.50
+"KRT","Karat Packaging Inc","Consumer Cyclical","Packaging & Containers","USA",488.26,15.29,31.80%,2.56%,2.24,-4.89%,-10.60%,1.67,99.09
+"FIVN","Five9 Inc","Technology","Software - Infrastructure","USA",1683.56,241.31,116.99%,9.55%,3.74,-9.40%,-29.00%,1.52,1919.52
+"CARG","CarGurus Inc","Consumer Cyclical","Auto & Truck Dealerships","USA",3326.21,27.00,87.08%,5.45%,4.10,13.02%,5.54%,1.86,1080.94
+"DVN","Devon Energy Corp","Energy","Oil & Gas E&P","USA",20745.26,7.69,75.54%,2.67%,2.20,-0.58%,-16.93%,1.67,7307.29
+"BORR","Borr Drilling Ltd","Energy","Oil & Gas Drilling","Bermuda",925.65,12.95,64.81%,6.83%,2.93,46.33%,-22.82%,2.40,4798.99
+"GTE","Gran Tierra Energy Inc","Energy","Oil & Gas E&P","Canada",145.07,,47.79%,3.63%,2.90,14.48%,-35.78%,2.00,395.92
+"PSKY","Paramount Skydance Corp","Communication Services","Entertainment","USA",15863.33,,87.01%,9.54%,3.54,47.23%,34.36%,3.44,13609.82
+"URGN","UroGen Pharma Ltd","Healthcare","Biotechnology","USA",1095.54,,93.03%,26.29%,9.71,29.82%,93.94%,1.25,1148.64
+"HL","Hecla Mining Co","Basic Materials","Other Precious Metals & Mining","USA",9133.38,44.89,64.55%,4.90%,1.22,80.53%,116.35%,2.33,24962.50
+"RLJ","RLJ Lodging Trust","Real Estate","REIT - Hotel & Motel","USA",1048.36,137.18,88.82%,14.39%,8.74,-1.85%,-22.34%,2.90,2226.98
+"APA","APA Corporation","Energy","Oil & Gas E&P","USA",8497.43,5.72,98.52%,10.48%,4.95,19.23%,0.76%,2.97,7445.91
+"IAG","Iamgold Corp","Basic Materials","Gold","Canada",6947.21,20.34,64.54%,2.49%,0.98,60.00%,126.64%,1.62,14106.96
+"VCEL","Vericel Corp","Healthcare","Biotechnology","USA",1961.39,311.71,104.39%,9.35%,6.47,9.71%,-13.14%,1.25,720.29
+"T","AT&T, Inc","Communication Services","Telecom Services","USA",175889.24,8.06,66.48%,1.16%,1.87,-11.83%,12.52%,1.84,44082.30
+"NTR","Nutrien Ltd","Basic Materials","Agricultural Inputs","Canada",27153.19,15.01,78.35%,1.06%,1.97,-1.08%,10.01%,2.18,2620.29
+"SUN","Sunoco LP","Energy","Oil & Gas Refining & Marketing","USA",8002.70,17.83,46.42%,4.89%,10.38,3.36%,-1.80%,1.14,500.04
+"HPK","HighPeak Energy Inc","Energy","Oil & Gas E&P","USA",659.33,14.66,21.02%,24.24%,10.98,-37.72%,-63.84%,2.67,505.53
+"ZEPP","Zepp Health Corporation ADR","Technology","Consumer Electronics","Netherlands",195.36,,21.75%,9.12%,1.59,-12.74%,764.49%,1.50,403.21
+"PENN","PENN Entertainment Inc","Consumer Cyclical","Resorts & Casinos","USA",2140.43,,100.93%,10.97%,4.47,-12.74%,-20.07%,2.15,3530.30
+"INTC","Intel Corp","Technology","Semiconductors","USA",173950.43,2679.60,62.72%,2.75%,0.91,80.37%,59.72%,3.13,128041.32

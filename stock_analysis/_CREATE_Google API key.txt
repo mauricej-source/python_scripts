@@ -1,0 +1,31 @@
+To get a Google API key, you need to create a project in the Google Cloud Console and enable the Custom Search API. Here's how to do it:
+
+1. Create a Google Cloud Project 🏗️
+Go to the Google Cloud Console (console.cloud.google.com).
+
+Sign in with your Google account.
+
+At the top of the page, click the project dropdown menu and select "New Project."
+
+Give your project a name and click "Create."
+
+2. Enable the Custom Search API 🔎
+With your new project selected, navigate to the APIs & Services Dashboard from the left-hand navigation menu.
+
+Click "Enable APIs and Services" at the top.
+
+In the search bar, type "Custom Search API."
+
+Click on the "Custom Search API" result and then click "Enable."
+
+3. Create Credentials (API Key) 🔑
+
+Once the API is enabled, you'll be redirected to the API's dashboard. On the left, click "Credentials."
+
+At the top, click "+ Create Credentials" and choose "API key."
+
+A pop-up will appear with your new API key. Copy the key and save it in a secure location.
+
+You can restrict the key's usage to specific websites or APIs for security purposes, which is highly recommended.
+
+By following these steps, you'll have a functioning Google API key for the Custom Search API.

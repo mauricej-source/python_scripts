@@ -1,0 +1,40 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"BBAI","BigBear.ai Holdings Inc","Technology","Information Technology Services","USA",3265.90,,34.38%,21.90%,0.85,24.08%,472.08%,1.67,93675.87
+"CIFR","Cipher Mining Inc","Financial","Capital Markets","USA",7999.37,,46.16%,21.69%,1.64,240.70%,439.52%,1.29,39509.66
+"SERV","Serve Robotics Inc","Industrials","Specialty Industrial Machinery","USA",986.25,,27.87%,30.87%,1.53,54.79%,63.07%,1.29,9266.24
+"SOUN","SoundHound AI Inc","Technology","Software - Application","USA",7803.11,,43.23%,32.16%,1.94,69.38%,313.39%,1.60,60337.15
+"VERI","Veritone Inc","Technology","Software - Infrastructure","USA",359.17,,16.64%,10.05%,1.10,251.01%,15.96%,1.50,5035.08
+"EGAN","eGain Corp","Technology","Software - Application","USA",376.14,12.07,53.78%,1.90%,2.22,118.75%,190.46%,2.00,148.44
+"NXXT","NextNRG Inc","Utilities","Utilities - Renewable","USA",282.53,,1.50%,3.06%,0.89,23.97%,-25.00%,1.00,825.62
+"IREN","IREN Ltd","Financial","Capital Markets","Australia",17390.80,,55.79%,13.93%,1.05,279.98%,754.06%,1.69,33661.14
+"CRNC","Cerence Inc","Technology","Software - Application","USA",489.94,,72.01%,18.79%,3.55,26.94%,208.17%,3.00,2125.09
+"MEG","Montrose Environmental Group Inc","Industrials","Waste Management","USA",1025.42,,97.63%,7.04%,5.18,27.79%,42.80%,1.75,445.91
+"GCO","Genesco Inc","Consumer Cyclical","Apparel Retail","USA",298.06,,102.36%,9.52%,5.15,22.82%,3.60%,2.33,181.17
+"KGC","Kinross Gold Corp","Basic Materials","Gold","Canada",31091.08,20.55,60.79%,2.32%,1.53,65.54%,170.81%,1.80,18290.77
+"FIVN","Five9 Inc","Technology","Software - Infrastructure","USA",1668.87,239.20,117.73%,8.90%,3.37,-16.47%,-23.43%,1.52,1986.05
+"WBD","Warner Bros. Discovery Inc","Communication Services","Entertainment","USA",44019.24,58.87,71.17%,4.30%,1.51,47.80%,130.01%,2.26,66632.47
+"FLEX","Flex Ltd","Technology","Electronic Components","USA",22080.36,25.84,101.56%,1.98%,1.97,14.10%,72.88%,1.58,3748.53
+"ATON","AlphaTON Capital Corp","Financial","Asset Management","United Kingdom",14.91,,0.90%,2.35%,0.03,14.34%,-5.22%,3.00,737.96
+"IVZ","Invesco Ltd","Financial","Asset Management","USA",10386.50,25.02,92.35%,3.07%,2.42,39.13%,31.06%,2.62,5616.27
+"HCTI","Healthcare Triangle Inc","Healthcare","Health Information Services","USA",16.73,,1.06%,18.65%,0.58,-44.32%,-97.73%,1.00,1881.54
+"ORN","Orion Group Holdings Inc","Industrials","Engineering & Construction","USA",334.96,29.91,78.49%,4.64%,4.04,0.60%,37.07%,1.00,421.75
+"ONTF","ON24 Inc","Technology","Software - Application","USA",232.26,,73.91%,3.71%,8.72,7.86%,-9.70%,3.00,150.89
+"SNV","Synovus Financial Corp","Financial","Banks - Regional","USA",6409.98,8.87,85.67%,1.98%,1.25,-12.09%,5.99%,2.06,2179.13
+"REKR","Rekor Systems Inc","Technology","Software - Infrastructure","USA",262.78,,24.27%,9.68%,3.41,71.90%,96.23%,1.00,3433.32
+"INTC","Intel Corp","Technology","Semiconductors","USA",173827.14,,62.63%,2.91%,1.01,62.39%,58.65%,3.20,120300.05
+"B","Barrick Mining Corp","Basic Materials","Gold","Canada",57014.18,20.98,66.23%,1.48%,1.34,58.92%,69.99%,1.83,18848.93
+"CADE","Cadence Bank","Financial","Banks - Regional","USA",7029.74,13.65,89.38%,3.58%,3.14,13.15%,22.63%,1.75,2066.92
+"TPVG","TriplePoint Venture Growth BDC Corp","Financial","Asset Management","USA",215.33,5.18,9.32%,6.23%,6.62,-25.21%,-19.70%,3.25,368.01
+"RF","Regions Financial Corp","Financial","Banks - Regional","USA",21915.09,11.45,81.53%,4.41%,2.20,2.21%,6.41%,2.25,17848.65
+"HOMB","Home Bancshares Inc","Financial","Banks - Regional","USA",5350.68,12.43,71.99%,2.88%,5.26,-4.74%,2.96%,2.11,1014.43
+"KLTR","Kaltura Inc","Technology","Software - Application","USA",233.28,,31.57%,1.37%,3.75,-12.72%,15.27%,1.50,291.98
+"IHDG","WisdomTree International Hedged Quality Dividend Growth Fund","Financial","Exchange Traded Fund","USA",,,,,0.15,2.92%,2.18%,,273.49
+"FOX","Fox Corporation","Communication Services","Entertainment","USA",24391.21,10.58,28.26%,3.94%,3.34,1.82%,34.97%,2.33,1753.69
+"NVO","Novo Nordisk ADR","Healthcare","Drug Manufacturers - General","Denmark",193552.48,15.84,9.19%,0.93%,1.76,-14.46%,-50.85%,2.03,17866.86
+"FHN","First Horizon Corporation","Financial","Banks - Regional","USA",11398.93,14.48,86.97%,1.87%,0.86,5.80%,41.11%,2.00,10890.97
+"CXM","Sprinklr Inc","Technology","Software - Application","USA",1835.76,16.66,45.66%,11.63%,6.47,-12.76%,6.67%,2.50,1983.61
+"CELH","Celsius Holdings Inc","Consumer Defensive","Beverages - Non-Alcoholic","USA",15772.27,168.57,65.53%,10.17%,2.93,34.34%,100.39%,1.64,6083.90
+"FTI","TechnipFMC plc","Energy","Oil & Gas Equipment & Services","USA",14796.59,17.05,98.47%,3.98%,3.08,5.39%,32.89%,1.88,5261.96
+"PATH","UiPath Inc","Technology","Software - Infrastructure","USA",9101.71,480.11,64.25%,13.53%,2.98,38.45%,37.78%,2.86,18416.17
+"IMRN","Immuron Limited ADR","Healthcare","Biotechnology","Australia",13.96,,0.34%,1.77%,0.23,11.23%,-22.68%,1.00,249.81
+"BAND","Bandwidth Inc","Technology","Software - Infrastructure","USA",459.05,,71.20%,3.50%,3.51,-2.37%,-11.20%,1.80,275.23

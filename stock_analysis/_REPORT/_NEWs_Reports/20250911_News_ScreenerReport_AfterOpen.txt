@@ -1,0 +1,51 @@
+>>  BEGIN - PROCESSING - Stock News Screeners ...
+>>     Successfully downloaded and saved News Events to
+>>     E:/_scripts_PYTHON/_personal/_INPUT\20250911_DIVIDEND.csv
+>>
+>>     Successfully downloaded and saved News Events to
+>>     E:/_scripts_PYTHON/_personal/_INPUT\20250911_STRATEGIC_PARTNERSHIP.csv
+>>
+>>     Successfully downloaded and saved News Events to
+>>     E:/_scripts_PYTHON/_personal/_INPUT\20250911_SECURITIES_PURCHASE.csv
+>>
+>>     Successfully downloaded and saved News Events to
+>>     E:/_scripts_PYTHON/_personal/_INPUT\20250911_ARTIFICIAL_INTELLIGENCE.csv
+>>
+>>     ##########
+>>     Tickers successfully extracted and saved to
+>>     'E:/_scripts_PYTHON/_personal/_INPUT\20250911_DIVIDEND_TickerSymbols_Extracted.txt'.
+>>
+>>     ##########
+>>     Tickers successfully extracted and saved to
+>>     'E:/_scripts_PYTHON/_personal/_INPUT\20250911_STRATEGIC_PARTNERSHIP_TickerSymbols_Extracted.txt'.
+>>
+>>     ##########
+>>     Tickers successfully extracted and saved to
+>>     'E:/_scripts_PYTHON/_personal/_INPUT\20250911_SECURITIES_PURCHASE_TickerSymbols_Extracted.txt'.
+>>
+>>     ##########
+>>     Tickers successfully extracted and saved to
+>>     'E:/_scripts_PYTHON/_personal/_INPUT\20250911_ARTIFICIAL_INTELLIGENCE_TickerSymbols_Extracted.txt'.
+>>
+>>     ##########
+>>     FINVIZ News Stocker Screener - DIVIDEND
+>>     URL -
+>>     https://elite.finviz.com/screener.ashx?v=341&o=-change&t=GLXY,FORD,AVR,TSCO,DOMO,F,HASI,SCHD,VITL,O,NLY,CALF,COWZ,VICI,UHT,CNP,CCBG,ORI,USB,AMCX,NJR,CPB,SKIN,OLP,PFIS
+>>
+>>     ##########
+>>     FINVIZ News Stocker Screener - STRATEGIC_PARTNERSHIP
+>>     URL -
+>>     https://elite.finviz.com/screener.ashx?v=341&o=-change&t=MOGU,VNET,LAES,JOBY,SLG,CELH,ENLV,GH,CHWY,MNST,GM,MSS,WRD,WRBY,CZR,PHG,SEGG,SLSR,MLP,AACT
+>>
+>>     ##########
+>>     FINVIZ News Stocker Screener - SECURITIES_PURCHASE
+>>     URL -
+>>     https://elite.finviz.com/screener.ashx?v=341&o=-change&t=BTCM,RMNI,UDMY,ECVT,COSM,CLRB,MSS,WERN,BWEN,PPTA,LIXT
+>>
+>>     ##########
+>>     FINVIZ News Stocker Screener - ARTIFICIAL_INTELLIGENCE
+>>     URL -
+>>     https://elite.finviz.com/screener.ashx?v=341&o=-change&t=AMST,ALMU,DPRO,IVDA,INOD,CELH,FTDR,CIFR,ZWS,GTLB,CHWY,MVST,MNST,SOUN,PHIN,MMA,APLD,ZVIA,GLDD,EGHT,KDP,AB,SONY,GFS,BOTZ,SNAP,RPRX,TASK,TRIN,PAR,IONQ,OMF,ARTY,CNP,AIQ,GES
+>>
+>>
+>>  END - PROCESSING - Stock News Screeners ...

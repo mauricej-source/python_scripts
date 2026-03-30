@@ -1,0 +1,37 @@
+To create a Google Custom Search Engine (CSE), you will need to use the Google Programmable Search Engine platform. Here's a general guide:
+
+1. Go to the Programmable Search Engine website 💻
+Navigate to the Google Programmable Search Engine website (programmablesearchengine.google.com). You will need to sign in with your Google account.
+
+2. Create a new search engine ➕
+Click the "New search engine" or "Add" button. A form will appear where you can configure your new search engine.
+
+3. Configure your search engine ⚙️
+You can configure your search engine to search specific sites or the entire web.
+
+Search specific sites: Enter the URLs of the sites you want to include in the search results.
+
+Search the entire web: During the setup, you can select the option to "Search the entire web but emphasize included sites." This allows you to have a general web search while prioritizing the sites you've listed.
+
+4. Get the unique ID 🆔
+After configuring and saving your search engine, you'll be taken to its dashboard. The unique Search Engine ID (also known as the cx value) will be displayed on the "Setup" page under the "Basics" tab. This ID is essential for using the search engine in your applications or on your website.
+
+
+
+DEVNOTE:  Snippet for HTML 
+<script async src="https://cse.google.com/cse.js?cx=468beb813ba254cd1">
+</script>
+<div class="gcse-search"></div>
+
+
+
+
+Search Engine Dashboard:  https://programmablesearchengine.google.com/controlpanel/overview?cx=468beb813ba254cd1
+
+Search Engine Name:       mediaSearchEngine
+
+Search Eninge Unique ID:  468beb813ba254cd1
+
+
+
+

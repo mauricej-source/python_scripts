@@ -1,0 +1,53 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"FROG","JFrog Ltd","Technology","Software - Application","USA",6946.14,,71.92%,2.04%,1.63,41.13%,95.53%,1.40,1243.52
+"SWKH","Swk Holdings Corp","Financial","Asset Management","USA",240.16,13.96,87.30%,0.53%,2.14,34.72%,48.69%,3.00,28.57
+"EB","Eventbrite Inc","Communication Services","Internet Content & Information","USA",250.89,,65.75%,4.20%,5.26,2.36%,-23.31%,3.00,589.19
+"LASR","nLIGHT Inc","Technology","Semiconductors","USA",1745.97,,87.78%,4.96%,2.64,32.14%,181.27%,1.29,863.43
+"FIGS","Figs Inc","Consumer Cyclical","Apparel Manufacturing","USA",1417.34,211.73,88.43%,6.71%,5.13,38.45%,37.35%,2.91,1929.01
+"ORGO","Organogenesis Holdings Inc","Healthcare","Drug Manufacturers - Specialty & Generic","USA",559.56,,56.31%,18.59%,14.32,-4.42%,45.10%,1.00,776.08
+"KODK","Eastman Kodak Co","Industrials","Specialty Business Services","USA",536.31,,45.81%,13.54%,5.06,-2.36%,31.87%,,1381.33
+"CGC","Canopy Growth Corporation","Healthcare","Drug Manufacturers - Specialty & Generic","Canada",408.83,,7.23%,9.34%,1.18,-22.15%,-78.00%,3.33,25936.16
+"PGNY","Progyny Inc","Healthcare","Healthcare Plans","USA",1696.43,33.50,93.62%,9.13%,4.94,-9.29%,24.95%,2.00,1327.67
+"G","Genpact Ltd","Technology","Information Technology Services","Bermuda",7319.33,13.93,96.22%,4.84%,4.11,-2.89%,7.44%,2.29,1882.31
+"BLFS","Biolife Solutions Inc","Healthcare","Medical Instruments & Supplies","USA",1413.21,,100.98%,7.29%,7.65,31.87%,13.81%,1.00,439.84
+"GRND","Grindr Inc","Technology","Software - Application","USA",2841.27,,22.01%,30.22%,4.45,-12.63%,6.25%,1.40,2607.26
+"NWSA","News Corp","Communication Services","Entertainment","USA",15932.15,33.17,73.55%,2.99%,2.86,-4.90%,-3.09%,1.78,3935.00
+"EVH","Evolent Health Inc","Healthcare","Health Information Services","USA",750.00,,108.33%,15.42%,5.78,-30.78%,-72.92%,1.14,3046.31
+"INOD","Innodata Inc","Technology","Information Technology Services","USA",2062.01,52.02,52.54%,16.91%,2.45,61.59%,194.05%,1.20,2103.65
+"MT","ArcelorMittal","Basic Materials","Steel","Luxembourg",30001.33,12.04,3.97%,0.29%,1.54,19.47%,56.67%,2.17,1416.05
+"ATNI","ATN International Inc","Communication Services","Telecom Services","USA",268.83,,60.93%,1.45%,3.94,17.23%,-10.83%,1.00,36.06
+"UPLD","Upland Software Inc","Technology","Software - Application","USA",54.67,,50.18%,2.12%,1.16,2.70%,-15.93%,1.00,375.72
+"NWS","News Corp","Communication Services","Entertainment","USA",15272.52,36.10,13.27%,6.74%,6.03,-10.63%,-1.38%,2.00,1284.19
+"AORT","Artivion Inc","Healthcare","Medical Devices","USA",2311.05,,88.16%,2.93%,2.81,14.01%,75.62%,1.29,467.95
+"IQST","iQSTEL Inc","Communication Services","Telecom Services","USA",18.40,,3.94%,4.52%,1.52,-35.44%,-64.88%,1.00,98.16
+"UIS","Unisys Corp","Technology","Information Technology Services","USA",196.77,,81.35%,2.14%,1.99,-25.20%,-62.85%,1.67,710.48
+"MODG","Topgolf Callaway Brands Corp","Consumer Cyclical","Leisure","USA",1746.70,,68.10%,8.93%,5.20,15.85%,-5.57%,2.38,2226.42
+"LNTH","Lantheus Holdings Inc","Healthcare","Drug Manufacturers - Specialty & Generic","USA",3739.68,14.61,115.36%,11.71%,4.81,-1.91%,-52.16%,1.46,1618.40
+"BLZE","Backblaze Inc","Technology","Software - Infrastructure","USA",357.65,,44.62%,2.37%,1.70,-14.11%,-16.05%,1.12,735.83
+"MTW","Manitowoc Co., Inc","Industrials","Farm & Heavy Construction Machinery","USA",407.07,7.20,78.69%,3.85%,4.20,12.66%,20.97%,5.00,308.35
+"RAL","Ralliant Corp","Technology","Electronic Components","USA",5386.68,,96.01%,1.12%,1.10,6.79%,,2.45,1139.72
+"GEN","Gen Digital Inc","Technology","Software - Infrastructure","USA",15957.72,27.05,90.04%,2.84%,4.19,-15.79%,-9.18%,2.29,3769.62
+"CURI","CuriosityStream Inc","Communication Services","Broadcasting","USA",222.45,,21.61%,5.80%,3.86,-7.25%,62.53%,1.00,581.36
+"LSPD","Lightspeed Commerce Inc","Technology","Software - Application","Canada",1846.03,,61.79%,3.50%,8.05,13.94%,-12.11%,2.38,531.66
+"RWAY","Runway Growth Finance Corp","Financial","Asset Management","USA",356.73,5.16,56.87%,5.18%,7.23,-9.88%,-0.66%,2.27,255.66
+"CION","CION Invt Corp","Financial","Asset Management","USA",515.66,,38.14%,1.47%,2.61,-8.16%,-14.35%,3.00,290.59
+"KW","Kennedy-Wilson Holdings Inc","Real Estate","Real Estate Services","USA",1337.63,,83.77%,2.70%,3.58,27.46%,-12.61%,3.00,879.90
+"KRT","Karat Packaging Inc","Consumer Cyclical","Packaging & Containers","USA",488.26,15.29,31.80%,2.56%,2.24,-4.89%,-10.60%,1.67,99.09
+"FIVN","Five9 Inc","Technology","Software - Infrastructure","USA",1683.56,241.31,116.99%,9.55%,3.74,-9.40%,-29.00%,1.52,1919.52
+"CARG","CarGurus Inc","Consumer Cyclical","Auto & Truck Dealerships","USA",3326.21,27.00,87.08%,5.45%,4.10,13.02%,5.54%,1.86,1080.94
+"MUX","McEwen Inc","Basic Materials","Other Precious Metals & Mining","Canada",859.67,,41.93%,18.19%,4.83,51.29%,72.08%,1.00,1709.52
+"BORR","Borr Drilling Ltd","Energy","Oil & Gas Drilling","Bermuda",925.65,12.95,64.81%,6.83%,2.93,46.33%,-22.82%,2.40,4798.99
+"CMCSA","Comcast Corp","Communication Services","Telecom Services","USA",99842.71,4.55,87.55%,1.50%,2.12,-12.77%,-35.62%,2.45,25597.01
+"EPC","Edgewell Personal Care Co","Consumer Defensive","Household & Personal Products","USA",871.67,13.86,103.86%,6.40%,4.29,-14.88%,-47.55%,2.00,683.73
+"VCEL","Vericel Corp","Healthcare","Biotechnology","USA",1961.39,311.71,104.39%,9.35%,6.47,9.71%,-13.14%,1.25,720.29
+"EXLS","ExlService Holdings Inc","Technology","Information Technology Services","USA",6167.12,26.32,98.69%,3.86%,4.22,-7.61%,-9.80%,1.45,1394.10
+"SNDX","Syndax Pharmaceuticals Inc","Healthcare","Biotechnology","USA",1280.00,,119.82%,26.19%,8.18,17.72%,-25.21%,1.07,2693.40
+"EPD","Enterprise Products Partners L P","Energy","Oil & Gas Midstream","USA",67187.64,11.74,25.06%,2.09%,7.49,-0.35%,5.90%,1.86,4038.26
+"SLB","SLB Ltd","Energy","Oil & Gas Equipment & Services","USA",54408.69,14.07,83.40%,2.49%,2.29,12.51%,-10.18%,1.34,16183.97
+"ACAD","Acadia Pharmaceuticals Inc","Healthcare","Biotechnology","USA",3657.68,13.95,100.78%,5.23%,4.15,-12.65%,44.53%,1.85,2108.69
+"CTO","CTO Realty Growth Inc","Real Estate","REIT - Diversified","USA",553.57,,62.42%,4.38%,4.54,5.10%,-14.37%,1.00,298.18
+"POR","Portland General Electric Co","Utilities","Utilities - Regulated Electric","USA",5379.22,17.35,97.42%,5.04%,5.04,13.34%,2.35%,2.55,1119.28
+"D","Dominion Energy Inc","Utilities","Utilities - Regulated Electric","USA",51712.99,20.61,83.20%,4.35%,7.81,-1.51%,3.36%,2.90,4746.76
+"ZEPP","Zepp Health Corporation ADR","Technology","Consumer Electronics","Netherlands",195.36,,21.75%,9.12%,1.59,-12.74%,764.49%,1.50,403.21
+"ATHM","Autohome Inc ADR","Communication Services","Internet Content & Information","China",2985.87,14.88,46.14%,1.12%,4.51,-11.70%,-12.43%,2.50,293.74
+"INTC","Intel Corp","Technology","Semiconductors","USA",173950.43,2679.60,62.72%,2.75%,0.91,80.37%,59.72%,3.13,128041.32

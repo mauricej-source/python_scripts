@@ -1,0 +1,53 @@
+>  BEGIN - PROCESSING - Stock Screeners ...
+Successfully downloaded and saved to E:/_scripts_PYTHON/_personal/_INPUT\20250910_OverSoldBouncePlay.csv
+Successfully downloaded and saved to E:/_scripts_PYTHON/_personal/_INPUT\20250910_ShortSqueeze.csv
+Successfully downloaded and saved to E:/_scripts_PYTHON/_personal/_INPUT\20250910_BuyAndHold.csv
+Successfully downloaded and saved to E:/_scripts_PYTHON/_personal/_INPUT\20250910_OffMABouncePlay.csv
+Successfully downloaded and saved to E:/_scripts_PYTHON/_personal/_INPUT\20250910_BreakOut.csv
+>>     ##########
+>>     Tickers successfully extracted and saved to
+>>     'E:/_scripts_PYTHON/_personal/_INPUT\20250910_OverSoldBouncePlay_TickerSymbols_Extracted.txt'.
+>>
+>>     ##########
+>>     Tickers successfully extracted and saved to
+>>     'E:/_scripts_PYTHON/_personal/_INPUT\20250910_ShortSqueeze_TickerSymbols_Extracted.txt'.
+>>
+>>     ##########
+>>     Tickers successfully extracted and saved to
+>>     'E:/_scripts_PYTHON/_personal/_INPUT\20250910_BuyAndHold_TickerSymbols_Extracted.txt'.
+>>
+>>     ##########
+>>     Tickers successfully extracted and saved to
+>>     'E:/_scripts_PYTHON/_personal/_INPUT\20250910_OffMABouncePlay_TickerSymbols_Extracted.txt'.
+>>
+>>     ##########
+>>     Tickers successfully extracted and saved to
+>>     'E:/_scripts_PYTHON/_personal/_INPUT\20250910_BreakOut_TickerSymbols_Extracted.txt'.
+>>
+>>     ##########
+>>     FINVIZ Stocker Screener - OverSold - Bounce Play
+>>     URL -
+>>     https://elite.finviz.com/screener.ashx?v=341&o=-change&t=BQ,BMA,GGAL,SUPV,BBAR,SPRY,VIRT,SBAC,LOMA
+>>
+>>     ##########
+>>     FINVIZ Stocker Screener - ShortSqueeze
+>>     URL -
+>>     https://elite.finviz.com/screener.ashx?v=341&o=-change&t=REPL,DBI,MPW,BGS,OMER,SVRA,IRBT,IOVA,ZOOZ,DDD,SLS,SPWR
+>>
+>>     ##########
+>>     FINVIZ Stocker Screener - Buy and Hold
+>>     URL -
+>>     https://elite.finviz.com/screener.ashx?v=341&o=-change&t=HUT,IESC,NVDA,CLSK,SMCI,LRCX,APP,RL,AYI,NVMI,ACLS,PRG,WSM
+>>
+>>     ##########
+>>     FINVIZ Stocker Screener - Off Moving Averages - Bounce Play
+>>     URL -
+>>     https://elite.finviz.com/screener.ashx?v=341&o=-change&t=EDHL,CGTL,GLE,CWVX,RBNE,SEI,PHH,PSQH,TSSI,PEW,ANNX,PUMP,BIYA,AVAV,CEG,VG,OPTT,SMCX,SMCL,CLSK,AAPD,EQNR,NVDY,SMCI,IBIT,FBTC,ARKB,ATI
+>>
+>>     ##########
+>>     FINVIZ Stocker Screener - BreakOut
+>>     URL -
+>>     https://elite.finviz.com/screener.ashx?v=341&o=-change&t=EDHL,CGTL,GLE,CWVX,RBNE,SEI,PHH,PSQH,TSSI,PEW,ANNX,PUMP,BIYA,AVAV,CEG,VG,OPTT,SMCX,SMCL,CLSK,AAPD,EQNR,NVDY,SMCI,IBIT,FBTC,ARKB,ATI
+>>
+>>
+>>  END - PROCESSING - Stock Screeners ...

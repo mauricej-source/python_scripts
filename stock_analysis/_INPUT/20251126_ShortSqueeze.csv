@@ -1,0 +1,41 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"NUVB","Nuvation Bio Inc","Healthcare","Biotechnology","USA",2754.11,,53.85%,27.73%,7.50,174.32%,186.07%,1.00,8842.72
+"DFDV","DeFi Development Corp","Technology","Software - Infrastructure","USA",234.88,2.99,19.46%,36.01%,2.24,-54.58%,1264.68%,1.00,2030.65
+"RCAT","Red Cat Holdings Inc","Industrials","Aerospace & Defense","USA",874.99,,41.27%,23.97%,2.11,-18.92%,-18.28%,1.00,11899.41
+"EOLS","Evolus Inc","Healthcare","Drug Manufacturers - Specialty & Generic","USA",456.33,,80.00%,22.72%,8.92,-6.38%,-44.13%,1.29,1265.18
+"NVAX","Novavax, Inc","Healthcare","Biotechnology","USA",1129.37,3.93,60.68%,34.17%,10.71,-8.31%,-17.95%,2.50,4730.95
+"MPW","Medical Properties Trust Inc","Real Estate","REIT - Healthcare Facilities","USA",3470.66,,56.17%,30.88%,18.00,31.14%,33.87%,3.30,8513.92
+"PDYN","Palladyne AI Corp","Technology","Software - Infrastructure","USA",231.21,,26.81%,20.72%,3.33,-28.29%,19.57%,2.00,1811.73
+"SVRA","Savara Inc","Healthcare","Biotechnology","USA",1090.59,,37.14%,21.40%,11.21,63.91%,59.52%,1.00,1640.33
+"PTLO","Portillos Inc","Consumer Cyclical","Restaurants","USA",392.70,14.40,78.89%,20.51%,4.38,-26.52%,-51.96%,2.20,3253.53
+"ALT","Altimmune Inc","Healthcare","Biotechnology","USA",539.45,,40.02%,22.50%,8.07,39.35%,-40.44%,1.67,2884.91
+"ABEO","Abeona Therapeutics Inc","Healthcare","Biotechnology","USA",279.08,4.42,62.41%,27.63%,8.72,-25.15%,-13.88%,1.00,1557.66
+"TSHA","Taysha Gene Therapies Inc","Healthcare","Biotechnology","USA",1331.25,,89.57%,21.44%,7.66,71.73%,96.76%,1.08,6280.26
+"SNBR","Sleep Number Corp","Consumer Cyclical","Furnishings, Fixtures & Appliances","USA",108.48,,87.12%,40.76%,10.91,-55.05%,-61.89%,3.00,617.61
+"CADL","Candel Therapeutics Inc","Healthcare","Biotechnology","USA",253.63,,41.42%,20.32%,10.89,-20.62%,-8.33%,1.25,766.08
+"UAA","Under Armour Inc","Consumer Cyclical","Apparel Manufacturing","USA",1917.18,,39.63%,29.40%,5.19,-7.97%,-51.47%,2.93,10661.79
+"UA","Under Armour Inc","Consumer Cyclical","Apparel Manufacturing","USA",1915.15,,23.45%,21.74%,4.98,-10.18%,-49.43%,2.93,5067.37
+"RXRX","Recursion Pharmaceuticals Inc","Healthcare","Biotechnology","USA",2298.77,,48.72%,35.10%,3.47,-9.35%,-22.63%,2.43,41977.80
+"DBI","Designer Brands Inc","Consumer Cyclical","Footwear & Accessories","USA",216.01,,71.74%,23.54%,9.48,15.96%,-13.49%,3.00,854.78
+"CTMX","CytomX Therapeutics Inc","Healthcare","Biotechnology","USA",715.02,10.09,65.28%,22.93%,8.29,105.85%,374.16%,1.38,3536.55
+"DNUT","Krispy Kreme Inc","Consumer Defensive","Grocery Stores","USA",704.04,,54.01%,31.07%,3.39,15.29%,-63.14%,3.00,7897.24
+"AVXL","Anavex Life Sciences Corporation","Healthcare","Biotechnology","USA",331.55,,38.12%,34.63%,14.06,-58.13%,-57.63%,1.67,2043.69
+"SPCE","Virgin Galactic Holdings Inc","Industrials","Aerospace & Defense","USA",233.84,,20.25%,20.07%,3.22,18.21%,-48.25%,3.00,3907.31
+"ABCL","AbCellera Biologics Inc","Healthcare","Biotechnology","Canada",1089.58,,35.89%,23.60%,10.76,-15.35%,31.88%,1.25,5058.32
+"INDI","Indie Semiconductor Inc","Technology","Semiconductor Equipment & Materials","USA",766.51,,91.31%,26.36%,11.43,-26.06%,-29.92%,1.29,4558.61
+"FLWS","1-800 Flowers.com Inc","Consumer Cyclical","Specialty Retail","USA",216.46,,47.77%,30.78%,7.00,-39.29%,-56.63%,3.00,1376.87
+"TTEC","TTEC Holdings Inc","Technology","Information Technology Services","USA",159.25,,31.45%,21.90%,13.81,-11.83%,-34.66%,2.50,317.74
+"EVGO","EVgo Inc","Consumer Cyclical","Specialty Retail","USA",973.23,,68.96%,26.85%,8.47,-23.11%,-50.31%,1.44,4053.02
+"ABSI","Absci Corp","Healthcare","Biotechnology","USA",464.65,,65.07%,23.58%,6.06,25.10%,20.70%,1.00,5284.05
+"VUZI","Vuzix Corporation","Technology","Consumer Electronics","USA",190.70,,28.36%,21.01%,6.14,10.70%,39.18%,1.00,2305.77
+"CRDF","Cardiff Oncology Inc","Healthcare","Biotechnology","USA",157.62,,31.32%,24.19%,17.21,12.50%,-4.49%,1.25,861.61
+"DDD","3D Systems Corp","Technology","Computer Hardware","USA",262.62,,68.22%,30.87%,9.27,-15.35%,-36.25%,2.50,4091.85
+"PLUG","Plug Power Inc","Industrials","Electrical Equipment & Parts","USA",2755.02,,39.20%,23.12%,2.46,21.47%,3.12%,2.88,124014.33
+"PROP","Prairie Operating Co","Energy","Oil & Gas E&P","USA",107.96,,14.62%,20.23%,3.82,-28.74%,-79.36%,1.75,1647.36
+"SPWR","SunPower Inc","Technology","Solar","USA",139.62,,22.28%,22.37%,5.92,9.80%,-13.40%,1.00,2129.61
+"ZYXI","Zynex Inc","Healthcare","Medical Distribution","USA",48.32,,13.47%,22.51%,1.69,-3.05%,-80.75%,3.00,2102.86
+"SKIN","Beauty Health Company","Consumer Defensive","Household & Personal Products","USA",184.88,,61.96%,22.66%,16.71,-28.92%,2.11%,3.22,1040.33
+"HUMA","Humacyte Inc","Healthcare","Biotechnology","USA",249.07,,24.70%,21.15%,6.49,-15.82%,-70.38%,1.43,5146.20
+"CHRS","Coherus Oncology Inc","Healthcare","Biotechnology","USA",158.34,,41.98%,28.55%,23.53,11.02%,20.18%,1.60,1240.14
+"NFE","New Fortress Energy Inc","Energy","Oil & Gas Midstream","USA",347.16,,59.98%,36.84%,3.49,-53.61%,-87.49%,2.67,19975.11
+"HRTX","Heron Therapeutics Inc","Healthcare","Biotechnology","USA",205.37,,83.72%,20.15%,21.28,-19.42%,4.67%,1.00,1719.54

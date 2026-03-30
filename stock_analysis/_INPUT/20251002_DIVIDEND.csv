@@ -1,0 +1,30 @@
+"Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Institutional Ownership","Short Float","Short Ratio","Performance (Quarter)","Performance (Year)","Analyst Recom","Average Volume"
+"DOW","Dow Inc","Basic Materials","Chemicals","USA",16877.58,,68.76%,3.99%,1.89,-16.34%,-56.42%,2.80,14915.78
+"LYB","LyondellBasell Industries NV","Basic Materials","Specialty Chemicals","United Kingdom",16040.61,65.42,73.77%,5.16%,2.78,-19.58%,-48.00%,2.72,4749.85
+"ON","ON Semiconductor Corp","Technology","Semiconductors","USA",20330.09,46.38,107.14%,8.82%,4.16,-12.17%,-31.54%,2.23,8624.56
+"IVZ","Invesco Ltd","Financial","Asset Management","USA",10419.58,25.10,92.43%,3.05%,2.37,39.65%,33.05%,2.67,5704.18
+"APA","APA Corporation","Energy","Oil & Gas E&P","USA",9066.31,8.50,94.68%,11.13%,5.63,29.75%,3.60%,2.97,6959.92
+"CTGO","Contango Ore Inc","Basic Materials","Gold","USA",378.25,,25.21%,5.18%,4.25,28.65%,31.26%,1.00,105.10
+"PD","Pagerduty Inc","Technology","Software - Application","USA",1536.61,,89.53%,13.06%,5.03,3.06%,-11.16%,1.91,2259.19
+"ARR","ARMOUR Residential REIT Inc","Real Estate","REIT - Mortgage","USA",1750.96,,40.92%,7.39%,2.24,-7.74%,-23.75%,2.60,3690.45
+"OZK","Bank OZK","Financial","Banks - Regional","USA",5795.24,8.29,94.57%,14.40%,16.66,0.18%,18.84%,2.30,980.89
+"CGBD","Carlyle Secured Lending Inc","Financial","Asset Management","USA",910.56,10.68,36.13%,0.71%,1.10,-10.27%,-26.18%,,465.30
+"BXSL","Blackstone Secured Lending Fund","Financial","Asset Management","USA",6023.82,9.31,43.99%,1.41%,2.00,-16.14%,-10.67%,1.83,1450.05
+"ENB","Enbridge Inc","Energy","Oil & Gas Midstream","Canada",108792.69,24.54,52.90%,0.95%,5.71,11.52%,22.86%,2.33,3635.28
+"BILL","BILL Holdings Inc","Technology","Software - Application","USA",5493.02,,94.20%,13.56%,3.55,12.11%,2.45%,1.85,3435.73
+"SM","SM Energy Co","Energy","Oil & Gas E&P","USA",2941.10,3.62,100.42%,9.28%,5.27,-1.33%,-35.99%,2.24,1990.04
+"GME","Gamestop Corporation","Consumer Cyclical","Specialty Retail","USA",12461.96,38.06,39.96%,16.34%,7.87,18.01%,21.40%,4.00,8494.50
+"UCB","United Community Banks Inc","Financial","Banks - Regional","USA",3776.85,14.12,84.60%,1.74%,3.44,-2.20%,6.92%,2.14,607.52
+"APPN","Appian Corp","Technology","Software - Infrastructure","USA",2279.39,,38.88%,8.09%,3.32,1.01%,-9.81%,2.78,942.21
+"CQP","Cheniere Energy Partners LP","Energy","Oil & Gas Midstream","USA",26022.42,13.00,46.52%,0.25%,5.45,-4.14%,10.59%,4.00,113.55
+"TSLX","Sixth Street Specialty Lending Inc","Financial","Asset Management","USA",2096.85,11.07,54.83%,3.25%,6.97,-8.51%,9.19%,,430.41
+"ARCC","Ares Capital Corp","Financial","Asset Management","USA",14262.53,9.91,33.06%,2.48%,4.46,-9.77%,-3.44%,1.57,3876.95
+"WES","Western Midstream Partners LP","Energy","Oil & Gas Midstream","USA",15040.23,12.14,36.85%,3.93%,7.00,1.29%,3.09%,2.93,1194.12
+"VTN","Invesco Trust For Investment Grade New York Municipals","Financial","Closed-End Fund - Debt","USA",162.60,38.38,11.62%,0.24%,0.78,5.50%,-3.46%,,45.47
+"NBHC","National Bank Holdings Corp","Financial","Banks - Regional","USA",1457.25,12.43,98.20%,1.17%,1.29,-3.76%,-8.47%,2.00,336.35
+"BIZD","VanEck BDC Income ETF","Financial","Exchange Traded Fund","USA",,,,,1.08,-11.41%,-13.22%,,1457.93
+"VKI","Invesco Advantage Municipal Income Trust II","Financial","Closed-End Fund - Debt","USA",392.99,26.82,24.63%,0.29%,0.85,4.73%,-4.94%,,152.27
+"VPV","Invesco Pennsylvania Value Municipal Income Trust","Financial","Closed-End Fund - Debt","USA",185.60,18.22,8.98%,0.11%,0.60,2.62%,-8.18%,,32.14
+"CMRE","Costamare Inc","Industrials","Marine Shipping","Monaco",1461.27,5.14,28.06%,3.20%,2.73,30.79%,4.18%,3.00,508.07
+"BIP","Brookfield Infrastructure Partners L.P","Utilities","Utilities - Diversified","Bermuda",21666.95,1712.12,57.48%,0.10%,0.85,-2.51%,-5.21%,1.33,531.32
+"VLT","Invesco High Income Trust II","Financial","Closed-End Fund - Debt","USA",73.49,9.92,14.84%,0.74%,2.62,2.63%,-1.86%,,18.38
